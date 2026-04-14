@@ -5,7 +5,7 @@
 
 ## Executive summary
 
-Using the supplied Study 1 English league dataset and the pooled Study 3 tournament datasets, this project evaluates whether the **WhoScored rating** behaves like a plausible match-performance measure and whether a **2 SD threshold** identifies genuinely exceptional performances. The evidence supports a **qualified positive conclusion**.
+Using the Study 1 English league dataset and the pooled Study 3 tournament datasets, we evaluated whether the **WhoScored rating** behaves like a plausible match-performance measure and whether a **2 SD threshold** identifies genuinely exceptional performances. The evidence supports a **qualified positive conclusion**.
 
 In Study 1, a cross-validated ridge model using transparent attacking, passing, defensive, progression, and negative-event variables explained **0.729** of the variance in the WhoScored rating.
 
