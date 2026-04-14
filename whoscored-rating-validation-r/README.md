@@ -26,7 +26,3 @@ The project addresses two linked questions. First, does the **WhoScored rating**
 ## How to use the project
 
 Open `WhoScoredRatingValidation.Rproj` in RStudio, then run `source("run_all.R")`. The scripts will read from `data/raw/` and write outputs to `outputs/tables/`, `outputs/figures/`, and `docs/`.
-
-## GitHub publication notes
-
-Before publishing, update the placeholder email and license in `DESCRIPTION` and `LICENSE` if needed. The repository is otherwise ready to initialize with Git.
