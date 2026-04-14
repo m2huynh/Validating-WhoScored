@@ -1,0 +1,464 @@
+"source_file","date","Stage","team","Player","player_position","Rating","Shots","ShotsOT","KeyPasses","PassAccuracy","AerialsWon","Touches","team_result","went_to_extra","went_to_penalties"
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Angola","Gelson Dala (83′) 29,  FWL","FWL",9.94,2,2,5,81,1,40,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-18","Group","Equatorial Guinea","Emilio Nsue (83′) 36,  FW","FW",9.59,3,3,0,84,2,34,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-18","Group","Ghana","Mohammed Kudus  25,  AMC","AMC",9.43,4,2,1,91.3,1,41,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-15","Group","Senegal","Lamine Camara  21,  MC","MC",9.36,2,2,3,89.2,0,88,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-03","Quarter-Finals","South Africa","Ronwen Williams  33,  GK","GK",9.32,0,0,0,66.7,0,57,"draw",1,1
+"AfricaNations2023_cleaned.csv","2024-01-20","Group","Mauritania","Aboubakary Koïta  27,  FWL","FWL",9.28,5,1,3,90.5,2,50,"loss",0,0
+"AfricaNations2023_cleaned.csv","2024-01-20","Group","Angola","Gelson Dala (85′) 29,  AML","AML",8.97,4,4,3,68.8,0,38,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-21","Group","South Africa","Themba Zwane (69′) 36,  FW","FW",8.93,2,2,0,71.9,1,43,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-11","Final","Ivory Coast","Simon Adingra  23,  FWL","FWL",8.84,2,1,6,74.2,0,59,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-14","Group","Egypt","Mostafa Mohamed  28,  FW","FW",8.72,3,3,2,79,2,33,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-18","Group","Egypt","Omar Marmoush (89′) 26,  AML","AML",8.68,4,2,3,89.5,3,50,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Nigeria","Calvin Bassey  25,  DC","DC",8.36,0,0,1,77.6,4,71,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-16","Group","Mali","Kamory Doumbia  22,  AMC","AMC",8.36,4,2,2,70,1,49,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Angola","Mabululu (83′) 33,  FW","FW",8.34,4,1,1,80,2,21,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-17","Group","Morocco","Azzedine Ounahi (80′) 25,  MC","MC",8.24,2,1,2,91.5,0,66,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Equatorial Guinea","Emilio Nsue (77′) 36,  FW","FW",8.24,2,2,0,80,0,13,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-21","Group","South Africa","Teboho Mokoena (92′) 28,  DMC","DMC",8.22,3,1,2,68.1,3,72,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-20","Group","Mauritania","Sidi Amar (81′) 26,  FWR","FWR",8.18,4,1,2,73.9,1,45,"loss",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Cape Verde","Logan Costa  24,  DC","DC",8.18,0,0,2,86.7,3,63,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Nigeria","Ademola Lookman  28,  FWL","FWL",8.17,3,2,2,81.8,0,46,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Angola","Fredy (69′) 35,  MC","MC",8.16,0,0,2,80,0,38,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Senegal","Abdoulaye Seck  33,  DC","DC",8.15,4,1,0,86.5,7,69,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Cameroon","Georges-Kévin N'Koudou (96′) 30,  FWL","FWL",8.15,2,0,2,90.5,0,54,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-29","Round of 16","Cape Verde","Ryan Mendes  35,  FWR","FWR",8.12,3,2,1,77.8,0,57,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Cameroon","Christopher Wooh  24,  DC","DC",8.11,2,1,0,89.3,6,48,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-03","Quarter-Finals","Cape Verde","Vozinha  39,  GK","GK",8.1,0,0,0,72.1,1,59,"draw",1,1
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Senegal","Ismaïla Sarr (81′) 27,  FWR","FWR",8.06,1,1,1,77.8,2,33,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Equatorial Guinea","Jesús Owono  24,  GK","GK",8.06,0,0,1,30.8,3,50,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-03","Quarter-Finals","Ivory Coast","Wilfried Singo (47′) 24,  Sub","Sub",8.05,3,1,1,73.3,4,57,"win",1,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Mauritania","Mohamed Dellahi (66′) 28,  DC","DC",8.05,2,2,0,50,1,30,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-16","Group","Mali","Lassine Sinayoko (85′) 25,  FW","FW",8.04,2,2,3,66.7,4,36,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-15","Group","Cameroon","Georges-Kévin N'Koudou  30,  FWL","FWL",8.04,3,0,7,74.1,1,70,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-16","Group","Mali","Djigui Diarra  30,  GK","GK",8.02,0,0,0,54.2,1,35,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Cape Verde","Ryan Mendes  35,  FWR","FWR",8.02,2,1,1,82.1,0,62,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Cape Verde","Bebé (57′) 35,  FW","FW",8.01,3,1,0,84.6,1,28,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-17","Group","DR Congo","Yoane Wissa (92′) 29,  ML","ML",7.98,6,2,2,86.7,0,48,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-20","Group","Algeria","Baghdad Bounedjah  34,  FW","FW",7.98,5,2,0,63.6,3,29,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-18","Group","Nigeria","William Troost-Ekong  32,  DC","DC",7.98,1,1,0,76.2,2,32,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Cape Verde","João Paulo  27,  DL","DL",7.97,0,0,2,82.9,1,62,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-11","Final","Ivory Coast","Franck Kessie  28,  MC","MC",7.95,2,2,1,84.4,1,52,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Equatorial Guinea","Carlos Akapo  32,  DR","DR",7.95,0,0,1,71.4,1,33,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-13","Group","Ivory Coast","Jean-Philippe Krasso (61′) 28,  FW","FW",7.95,4,1,1,45.5,1,29,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Angola","Kialonda Gaspar  28,  DC","DC",7.94,0,0,0,87.2,6,67,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Senegal","Sadio Mané  33,  FWL","FWL",7.93,2,1,0,77.4,1,52,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Cameroon","Karl Toko-Ekambi  33,  FWR","FWR",7.93,4,1,3,67.9,2,48,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-23","Group","Senegal","Krépin Diatta  26,  DR","DR",7.92,1,0,4,86.7,1,44,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-28","Round of 16","Guinea","Ibrahim Diakité  22,  DR","DR",7.91,1,1,1,78.6,1,58,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-02-07","Semi-Finals","Nigeria","Stanley Nwabali  29,  GK","GK",7.9,0,0,0,50,1,40,"draw",1,1
+"AfricaNations2023_cleaned.csv","2024-01-16","Group","Mali","Hamari Traoré  33,  DR","DR",7.87,1,1,1,74.4,0,58,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Egypt","Trézéguet (45′) 31,  Sub","Sub",7.87,4,2,2,100,0,27,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-13","Group","Ivory Coast","Seko Fofana  30,  MC","MC",7.87,2,2,1,89.1,0,64,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-13","Group","Ivory Coast","Franck Kessie  28,  MC","MC",7.87,1,1,2,97.4,0,50,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-27","Round of 16","Angola","Tó Carneiro  30,  DL","DL",7.86,0,0,1,64.7,3,90,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-19","Group","Cape Verde","Kevin Lenini  28,  MC","MC",7.86,1,1,0,90.9,0,60,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-28","Round of 16","DR Congo","Meschack Elia (106′) 28,  FWR","FWR",7.85,2,1,1,69.2,0,43,"draw",1,1
+"AfricaNations2023_cleaned.csv","2024-01-29","Round of 16","Senegal","Sadio Mané  33,  FWL","FWL",7.84,2,1,3,65.6,0,68,"draw",1,1
+"AfricaNations2023_cleaned.csv","2024-02-02","Quarter-Finals","DR Congo","Arthur Masuaku  32,  DL","DL",7.83,1,1,3,64.7,0,69,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-18","Group","Equatorial Guinea","Josete Miranda (79′) 27,  ML","ML",7.83,3,2,0,68.2,1,38,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-17","Group","Morocco","Achraf Hakimi  27,  DR","DR",7.82,0,0,3,88.1,1,87,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-21","Group","Morocco","Achraf Hakimi  27,  DR","DR",7.81,1,1,3,85,0,67,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-22","Group","Equatorial Guinea","Pablo Ganet (84′) 31,  MC","MC",7.81,1,1,1,68.8,0,27,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-14","Group","Equatorial Guinea","Iban Salvador (92′) 29,  AMR","AMR",7.8,2,1,2,72,1,45,"draw",0,0
+"AfricaNations2023_cleaned.csv","2024-01-30","Round of 16","South Africa","Teboho Mokoena  28,  DMC","DMC",7.77,3,2,1,86.2,0,79,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-24","Group","Morocco","Hakim Ziyech (45′) 32,  MR","MR",7.77,1,1,3,83.3,0,40,"win",0,0
+"AfricaNations2023_cleaned.csv","2024-01-17","Group","Morocco","Romain Saïss  35,  DC","DC",7.77,1,1,1,84.8,3,67,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Maxi Araújo  25,  AML","AML",9.72,3,3,2,72.7,1,44,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-29","Group","Brazil","Vinícius Júnior  25,  AML","AML",9.18,3,2,2,70,0,57,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Darwin Núñez (82′) 26,  FW","FW",9.12,7,2,0,60,2,36,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Federico Valverde (85′) 27,  DMC","DMC",9.09,3,2,2,94.3,0,71,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Colombia","James Rodríguez (72′) 34,  FWR","FWR",9.06,1,1,3,84.2,0,48,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Venezuela","Jon Aramburu  23,  DR","DR",8.91,0,0,1,69.2,1,84,"draw",1,1
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Venezuela","Salomón Rondón  36,  FW","FW",8.79,5,2,1,45,7,38,"draw",1,1
+"CopaAmerica2024_cleaned.csv","2024-06-27","Group","Venezuela","Rafael Romo  35,  GK","GK",8.78,0,0,0,46.7,0,42,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-23","Group","USA","Christian Pulisic  27,  FWL","FWL",8.66,4,2,3,87.2,0,65,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-27","Group","Venezuela","Jon Aramburu  23,  DR","DR",8.56,0,0,0,83.3,1,62,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-21","Group","Argentina","Lionel Messi  38,  FW","FW",8.52,6,3,5,90.5,1,67,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-26","Group","Ecuador","Moisés Caicedo  24,  DMC","DMC",8.49,2,1,4,89.5,0,64,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-26","Group","Argentina","Lionel Messi  38,  FW","FW",8.49,1,0,5,94.1,0,65,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-30","Group","Argentina","Lautaro Martínez  28,  FW","FW",8.46,4,3,0,85.7,0,35,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Colombia","Jhon Córdoba (78′) 32,  FW","FW",8.45,1,1,0,72.7,6,24,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Colombia","Richard Ríos  25,  MC","MC",8.42,2,1,1,87.9,1,58,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Colombia","James Rodríguez (71′) 34,  FWR","FWR",8.39,1,1,5,94.9,1,58,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Colombia","Daniel Muñoz  29,  DR","DR",8.38,0,0,0,94,2,84,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-26","Group","Ecuador","Piero Hincapié  23,  DL","DL",8.38,1,1,0,71,4,61,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-23","Group","USA","Antonee Robinson  28,  DL","DL",8.37,2,0,5,81.6,3,83,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-24","Group","Uruguay","Darwin Núñez  26,  FW","FW",8.33,5,3,1,76.5,2,33,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-24","Group","Paraguay","Julio Enciso (91′) 21,  FWL","FWL",8.3,4,2,0,81.3,0,51,"loss",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-24","Group","Uruguay","Matías Viña  28,  DL","DL",8.29,1,1,4,76.7,3,76,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Nicolás de la Cruz (88′) 28,  AMC","AMC",8.28,0,0,5,78.6,1,63,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Colombia","Davinson Sánchez  29,  DC","DC",8.25,4,1,1,82.9,6,83,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-06","Quarter-Finals","Colombia","Luis Díaz (64′) 28,  FWL","FWL",8.24,1,1,0,81.3,0,36,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Facundo Pellistri (85′) 23,  AMR","AMR",8.23,1,1,2,85.7,1,34,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-02","Group","Uruguay","Ronald Araujo  26,  DC","DC",8.2,1,1,0,71.8,7,62,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-02","Group","Uruguay","Mathías Olivera  28,  DC","DC",8.14,1,1,1,80.4,3,64,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-24","Group","Colombia","James Rodríguez (91′) 34,  FWR","FWR",8.13,2,1,3,88.3,0,81,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Nahitan Nández  29,  DR","DR",8.13,0,0,1,81.3,0,82,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-30","Group","Chile","Alexis Sánchez  36,  AMC","AMC",8.1,1,1,2,69.6,4,56,"draw",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-02","Group","Uruguay","Manuel Ugarte (88′) 24,  DMC","DMC",8.08,0,0,0,79.4,2,51,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Ronald Araujo  26,  DC","DC",8.05,1,0,1,82.4,6,84,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-23","Group","Jamaica","Dexter Lembikisa  22,  DMR","DMR",8.01,3,3,0,57.7,1,56,"loss",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-10","Semi-Finals","Argentina","Rodrigo De Paul  31,  MC","MC",7.96,0,0,2,79.7,0,74,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-06-28","Group","Uruguay","Manuel Ugarte  24,  DMC","DMC",7.96,1,0,0,91.5,0,76,"win",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-15","Final","Argentina","Emiliano Martínez  33,  GK","GK",7.95,0,0,0,60.6,0,57,"win",1,0
+"CopaAmerica2024_cleaned.csv","2024-07-03","Group","Brazil","Raphinha  28,  AMR","AMR",7.95,2,1,1,77.4,1,55,"draw",0,0
+"CopaAmerica2024_cleaned.csv","2024-07-01","Group","Mexico","Johan Vásquez  27,  DC","DC",7.95,3,1,0,82.5,6,77,"draw",0,0
+"Euros2024_cleaned.csv","2024-07-02","Round of 16","Turkiye","Merih Demiral  27,  DC","DC",9.64,3,2,0,90,6,62,"win",0,0
+"Euros2024_cleaned.csv","2024-06-22","Group","Georgia","Giorgi Mamardashvili  25,  GK","GK",9.25,0,0,0,25,2,51,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-30","Round of 16","Spain","Nico Williams  23,  FWL","FWL",9.09,5,2,4,100,0,69,"win",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","Spain","Dani Olmo (7′) 27,  Sub","Sub",9.06,3,2,3,76.2,0,69,"win",1,0
+"Euros2024_cleaned.csv","2024-07-02","Round of 16","Netherlands","Cody Gakpo (83′) 26,  AML","AML",9.02,4,3,3,58.8,1,29,"win",0,0
+"Euros2024_cleaned.csv","2024-07-06","Quarter-Finals","England","Bukayo Saka  24,  DMR","DMR",8.91,3,1,2,86.3,1,82,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-16","Group","Netherlands","Cody Gakpo (80′) 26,  AML","AML",8.88,5,2,3,84.6,4,56,"win",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Spain","Unai Simón  28,  GK","GK",8.83,0,0,0,63.9,0,52,"win",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Spain","Fabián Ruiz  29,  MC","MC",8.79,1,1,1,90.7,0,64,"win",0,0
+"Euros2024_cleaned.csv","2024-06-22","Group","Belgium","Kevin De Bruyne  34,  AMC","AMC",8.76,5,3,3,77.8,1,69,"win",0,0
+"Euros2024_cleaned.csv","2024-06-14","Group","Germany","Jamal Musiala (73′) 22,  AMR","AMR",8.73,1,1,0,100,0,61,"win",0,0
+"Euros2024_cleaned.csv","2024-06-30","Round of 16","Spain","Fabián Ruiz (80′) 29,  MC","MC",8.69,7,2,2,91.9,0,106,"win",0,0
+"Euros2024_cleaned.csv","2024-06-30","Round of 16","Spain","Lamine Yamal  18,  FWR","FWR",8.68,7,2,6,89.3,0,91,"win",0,0
+"Euros2024_cleaned.csv","2024-07-01","Round of 16","Portugal","João Palhinha  30,  DMC","DMC",8.6,3,1,0,78.8,5,98,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-30","Round of 16","Spain","Rodri  29,  MC","MC",8.54,3,1,2,93.2,2,129,"win",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","France","Ousmane Dembélé (66′) 28,  Sub","Sub",8.5,3,0,6,89.5,0,41,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-29","Round of 16","Switzerland","Rubén Vargas (70′) 27,  AMC","AMC",8.46,1,1,2,89.7,1,44,"win",0,0
+"Euros2024_cleaned.csv","2024-07-02","Round of 16","Netherlands","Donyell Malen (45′) 26,  Sub","Sub",8.35,4,2,2,93.8,1,30,"win",0,0
+"Euros2024_cleaned.csv","2024-06-30","Round of 16","Spain","Dani Olmo (51′) 27,  Sub","Sub",8.35,6,3,4,88.9,0,29,"win",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Switzerland","Michel Aebischer  28,  DML","DML",8.35,1,1,2,87,1,63,"win",0,0
+"Euros2024_cleaned.csv","2024-06-20","Group","Slovenia","Timi Max Elsnik (90′) 27,  MC","MC",8.33,2,0,2,73.2,2,60,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-19","Group","Germany","Joshua Kimmich  30,  DR","DR",8.32,2,1,4,97.3,0,94,"win",0,0
+"Euros2024_cleaned.csv","2024-07-01","Round of 16","Portugal","Diogo Costa  26,  GK","GK",8.31,0,0,0,84.2,0,33,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-25","Group","France","Kylian Mbappé  26,  FW","FW",8.31,6,5,0,91.5,0,73,"draw",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","Portugal","Nuno Mendes  23,  DL","DL",8.23,1,1,1,96.8,0,139,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-19","Group","Croatia","Andrej Kramaric (83′) 34,  FWL","FWL",8.21,1,1,3,85.3,1,52,"draw",0,0
+"Euros2024_cleaned.csv","2024-07-01","Round of 16","Slovenia","Jan Oblak  32,  GK","GK",8.2,0,0,0,52.3,2,55,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-22","Group","Portugal","Bernardo Silva  31,  AMR","AMR",8.18,2,1,4,92.3,0,69,"win",0,0
+"Euros2024_cleaned.csv","2024-06-19","Group","Albania","Thomas Strakosha  30,  GK","GK",8.18,0,0,0,65.5,0,49,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-21","Group","Ukraine","Oleksandr Zinchenko  28,  DL","DL",8.17,1,1,1,81.5,5,71,"win",0,0
+"Euros2024_cleaned.csv","2024-06-20","Group","Spain","Marc Cucurella  27,  DL","DL",8.17,0,0,3,98.1,2,73,"win",0,0
+"Euros2024_cleaned.csv","2024-06-17","Group","Romania","Denis Dragus (74′) 26,  FW","FW",8.16,1,1,1,75,0,36,"win",0,0
+"Euros2024_cleaned.csv","2024-06-16","Group","Slovenia","Erik Janza  32,  DL","DL",8.16,3,1,2,76.7,2,58,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Spain","Lamine Yamal (85′) 18,  FWR","FWR",8.15,3,1,3,83.3,0,36,"win",0,0
+"Euros2024_cleaned.csv","2024-07-06","Quarter-Finals","Netherlands","Memphis Depay (86′) 31,  FW","FW",8.14,4,1,3,82.8,0,49,"win",0,0
+"Euros2024_cleaned.csv","2024-06-26","Group","Georgia","Khvicha Kvaratskhelia (81′) 24,  FW","FW",8.14,3,2,0,100,0,32,"win",0,0
+"Euros2024_cleaned.csv","2024-06-24","Group","Spain","Dani Olmo (83′) 27,  MC","MC",8.09,4,0,2,82.9,2,54,"win",0,0
+"Euros2024_cleaned.csv","2024-06-17","Group","Romania","Dennis Man (61′) 27,  MR","MR",8.08,1,0,3,70.6,1,26,"win",0,0
+"Euros2024_cleaned.csv","2024-06-16","Group","England","Jude Bellingham (85′) 22,  AMC","AMC",8.08,1,1,0,95.7,1,94,"win",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","Germany","Joshua Kimmich  30,  DR","DR",8.06,1,0,5,91.9,2,91,"loss",1,0
+"Euros2024_cleaned.csv","2024-06-18","Group","Turkiye","Samet Akaydin  31,  DC","DC",8.05,0,0,0,89,5,83,"win",0,0
+"Euros2024_cleaned.csv","2024-06-18","Group","Turkiye","Arda Güler (78′) 20,  AMR","AMR",8.04,1,1,3,92.7,0,60,"win",0,0
+"Euros2024_cleaned.csv","2024-06-14","Group","Germany","Kai Havertz (62′) 26,  FW","FW",8.03,2,2,1,70.6,3,25,"win",0,0
+"Euros2024_cleaned.csv","2024-06-21","Group","Austria","Christoph Baumgartner (80′) 26,  AMR","AMR",8.02,1,1,2,75.9,1,47,"win",0,0
+"Euros2024_cleaned.csv","2024-06-22","Group","Portugal","Cristiano Ronaldo  40,  FW","FW",8.01,4,1,3,76.5,2,30,"win",0,0
+"Euros2024_cleaned.csv","2024-06-25","Group","France","Ousmane Dembélé (85′) 28,  FWR","FWR",8.01,2,1,3,76.3,0,70,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-16","Group","Denmark","Christian Eriksen  33,  AMC","AMC",8,5,1,7,88,0,79,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-20","Group","Denmark","Pierre-Emile Højbjerg  30,  MC","MC",7.98,5,4,0,89.2,2,108,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-20","Group","Spain","Fabián Ruiz (93′) 29,  MC","MC",7.98,3,2,3,95.3,0,101,"win",0,0
+"Euros2024_cleaned.csv","2024-06-19","Group","Albania","Qazim Laçi (72′) 29,  MC","MC",7.97,1,1,3,66.7,1,35,"draw",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","France","Jules Koundé  27,  DR","DR",7.94,0,0,1,89.3,2,84,"draw",1,1
+"Euros2024_cleaned.csv","2024-06-17","Group","Romania","Razvan Marin  29,  MC","MC",7.94,1,1,1,79.2,1,35,"win",0,0
+"Euros2024_cleaned.csv","2024-06-19","Group","Germany","Ilkay Gündogan (83′) 35,  AMC","AMC",7.94,2,1,2,84.8,1,52,"win",0,0
+"Euros2024_cleaned.csv","2024-07-14","Final","England","Jude Bellingham  22,  AML","AML",7.93,1,0,2,67.7,3,53,"loss",0,0
+"Euros2024_cleaned.csv","2024-07-05","Quarter-Finals","Spain","Unai Simón  28,  GK","GK",7.91,0,0,0,64.6,2,68,"win",1,0
+"Euros2024_cleaned.csv","2024-07-02","Round of 16","Austria","Stefan Posch  28,  DR","DR",7.89,2,0,6,79.6,1,85,"loss",0,0
+"Euros2024_cleaned.csv","2024-06-29","Round of 16","Germany","Nico Schlotterbeck  26,  DC","DC",7.88,2,1,1,90.9,4,82,"win",0,0
+"Euros2024_cleaned.csv","2024-06-22","Group","Czechia","Patrik Schick (67′) 29,  FW","FW",7.87,7,4,1,77.8,5,33,"draw",0,0
+"Euros2024_cleaned.csv","2024-06-26","Group","Georgia","Georges Mikautadze  25,  FW","FW",7.87,1,1,2,81,0,38,"win",0,0
+"Euros2024_cleaned.csv","2024-06-17","Group","Romania","Nicolae Stanciu (86′) 32,  MC","MC",7.87,3,1,0,79.2,0,37,"win",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Spain","Álvaro Morata (66′) 33,  FW","FW",7.85,3,2,0,50,2,23,"win",0,0
+"Euros2024_cleaned.csv","2024-06-26","Group","Turkiye","Baris Alper Yilmaz  25,  FW","FW",7.84,2,2,2,89.3,2,44,"win",0,0
+"Euros2024_cleaned.csv","2024-06-15","Group","Spain","Dani Carvajal  33,  DR","DR",7.84,1,1,0,91.8,1,68,"win",0,0
+"Euros2024_cleaned.csv","2024-06-22","Group","Portugal","Bruno Fernandes  31,  AMC","AMC",7.83,4,1,0,75,1,55,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-07","Group","Spain","Alèxia Putellas  31,  MC","MC",10,7,2,6,87.8,2,112,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-10","Group","Norway","Signe Gaupset  20,  AML","AML",9.98,3,2,7,83.3,3,63,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-13","Group","France","Delphine Cascarino (70′) 28,  FWR","FWR",9.58,6,3,1,86.7,1,33,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-07","Group","Spain","Clàudia Pina (81′) 24,  FWL","FWL",9.55,5,3,4,86.4,0,67,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-10","Group","Norway","Frida Maanum  26,  AMC","AMC",9.36,6,3,3,90.7,1,62,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Spain","Alèxia Putellas  31,  MC","MC",9.35,4,1,6,87.5,0,83,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-09","Group","France","Clara Matéo (74′) 28,  FW","FW",9.07,5,3,1,65.2,0,36,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Spain","Vicky López (80′) 19,  MC","MC",9.01,2,1,3,88.5,1,71,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Spain","Esther González (65′) 32,  FW","FW",8.97,6,3,0,87.5,0,22,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-04","Group","Germany","Jule Brand  23,  AMR","AMR",8.86,4,3,3,82.8,3,55,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-13","Group","England","Ella Toone (45′) 26,  MC","MC",8.84,2,2,2,100,0,29,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-09","Group","England","Lauren James (68′) 24,  AMR","AMR",8.8,5,2,2,93.8,2,49,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Italy","Arianna Caruso  26,  MC","MC",8.79,5,2,2,80,0,46,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-19","Quarter-Finals","Germany","Ann-Katrin Berger  35,  GK","GK",8.74,0,0,0,39.3,0,74,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-10","Group","Iceland","Sveindís Jónsdóttir  24,  AMR","AMR",8.71,4,1,2,76.5,1,54,"loss",0,0
+"WEuros2025_cleaned.csv","2025-07-11","Group","Spain","Alèxia Putellas  31,  MC","MC",8.7,4,2,3,93.3,0,95,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-18","Quarter-Finals","Spain","Clàudia Pina (77′) 24,  FWL","FWL",8.69,6,3,3,85,0,69,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-08","Group","Sweden","Johanna Rytting Kaneryd  28,  AMR","AMR",8.68,2,0,7,73,0,64,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Spain","Mariona Caldentey (76′) 29,  MR","MR",8.68,1,0,2,91.2,0,80,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-17","Quarter-Finals","Sweden","Stina Blackstenius (116′) 29,  FW","FW",8.65,4,3,1,69,4,61,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-04","Group","Germany","Klara Bühl (84′) 24,  AML","AML",8.58,3,0,6,80,1,71,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-06","Group","Switzerland","Géraldine Reuteler  26,  MC","MC",8.55,1,1,2,82.1,0,55,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-11","Group","Spain","Patri Guijarro (86′) 27,  MC","MC",8.5,4,2,1,89.5,0,123,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-27","Final","Spain","Ona Batlle  26,  DR","DR",8.47,0,0,4,86.2,2,129,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-13","Group","France","Sakina Karchaoui  29,  MC","MC",8.47,3,2,4,71.8,2,67,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-16","Quarter-Finals","Italy","Cristiana Girelli (91′) 35,  FW","FW",8.46,3,2,0,60,7,39,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-03","Group","Spain","Olga Carmona  25,  DL","DL",8.46,2,0,1,88.7,0,100,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-07","Group","Italy","Cristiana Girelli (86′) 35,  FW","FW",8.45,5,4,0,61.5,3,50,"draw",0,0
+"WEuros2025_cleaned.csv","2025-07-22","Semi-Finals","Italy","Laura Giuliani  32,  GK","GK",8.41,0,0,0,83.3,1,76,"loss",1,0
+"WEuros2025_cleaned.csv","2025-07-08","Group","Sweden","Kosovare Asllani (67′) 36,  AMC","AMC",8.4,2,1,4,72.2,0,39,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-11","Group","Portugal","Kika Nazareth  23,  AMC","AMC",8.38,4,0,5,86.3,2,88,"loss",0,0
+"WEuros2025_cleaned.csv","2025-07-13","Group","France","Marie-Antoinette Katoto (70′) 27,  FW","FW",8.37,4,1,1,75,4,33,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-12","Group","Sweden","Smilla Holmberg  19,  DR","DR",8.36,2,1,2,65,0,62,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-13","Group","England","Alessia Russo (56′) 26,  FW","FW",8.35,3,1,1,75,2,20,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-17","Quarter-Finals","Sweden","Julia Zigiotti Olme  27,  DMC","DMC",8.33,0,0,2,46,6,59,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-17","Quarter-Finals","England","Lucy Bronze  34,  DR","DR",8.33,2,1,0,57.1,6,114,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-09","Group","England","Alessia Russo (83′) 26,  FW","FW",8.27,5,2,4,75,2,28,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-09","Group","France","Melween N'Dongala  21,  DR","DR",8.26,0,0,1,79,4,94,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-04","Group","Sweden","Filippa Angeldahl (89′) 28,  DMC","DMC",8.25,6,2,1,74.6,1,76,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-09","Group","England","Georgia Stanway  26,  DMC","DMC",8.24,2,1,1,84.6,0,46,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-12","Group","Poland","Ewa Pajor  29,  FW","FW",8.23,4,1,2,67.7,2,51,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-12","Group","Poland","Natalia Padilla-Bidas  23,  AMR","AMR",8.2,4,1,2,68.2,2,41,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-08","Group","Sweden","Stina Blackstenius (84′) 29,  FW","FW",8.2,9,4,0,55.6,1,29,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-19","Quarter-Finals","Germany","Sjoeke Nüsken  24,  MC","MC",8.18,2,2,1,44.4,6,52,"draw",1,1
+"WEuros2025_cleaned.csv","2025-07-04","Group","Germany","Sjoeke Nüsken  24,  DMC","DMC",8.15,7,1,1,85.1,5,70,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-12","Group","Sweden","Johanna Rytting Kaneryd  28,  AMR","AMR",8.11,1,1,2,64.3,0,47,"win",0,0
+"WEuros2025_cleaned.csv","2025-07-13","Group","England","Alex Greenwood  32,  DL","DL",8.1,0,0,4,89.7,2,130,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-05","Round of 16","Spain","Aitana Bonmatí (76′) 27,  MC","MC",10,5,3,4,90,1,88,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Brazil","Ary Borges (74′) 25,  MR","MR",10,4,4,5,95.4,2,63,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Jill Roord  28,  MC","MC",10,13,5,5,90.2,2,89,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Lieke Martens  32,  FW","FW",10,11,5,2,75,2,87,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","England","Lauren James (80′) 24,  AMC","AMC",10,2,2,3,88.6,3,70,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-26","Group","Spain","Jenni Hermoso  35,  FW","FW",10,5,4,2,91,1,92,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-30","Group","Norway","Sophie Haug  26,  FW","FW",10,7,5,1,52.4,7,32,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Esmee Brugts (79′) 22,  ML","ML",9.88,3,2,4,87.5,1,57,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","USA","Sophia Smith  25,  FWL","FWL",9.86,5,2,3,61.9,0,60,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-30","Group","Norway","Caroline Graham Hansen (81′) 30,  FWR","FWR",9.69,7,1,3,78.1,0,65,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Zambia","Barbra Banda  25,  FW","FW",9.66,5,3,4,70,2,50,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Germany","Alexandra Popp (82′) 34,  FW","FW",9.65,4,3,0,72.4,2,42,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-29","Group","Sweden","Amanda Ilestedt  32,  DC","DC",9.46,3,2,1,79.5,5,51,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Japan","Jun Endo (76′) 25,  DML","DML",9.31,2,1,2,78.2,0,94,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Japan","Hinata Miyazawa (45′) 25,  FWR","FWR",9.3,2,2,1,64.3,0,29,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-21","Group","Spain","Olga Carmona  25,  DL","DL",9.23,5,2,3,86,4,95,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-21","Group","Spain","Teresa Abelleira (76′) 25,  DMC","DMC",9.21,2,0,10,88.2,9,121,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-08","Round of 16","France","Eugénie Le Sommer (80′) 36,  AMC","AMC",9.18,3,2,0,64.7,0,56,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-11","Quarter-Finals","Spain","Mariona Caldentey (99′) 29,  FWL","FWL",9.17,4,2,4,75.4,0,109,"win",1,0
+"WomenWC2023_cleaned.csv","2023-07-26","Group","Spain","Teresa Abelleira  25,  MC","MC",9.15,2,1,1,89.5,5,130,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","USA","Lindsey Horan  31,  MC","MC",9.12,5,1,1,74.2,5,100,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-12","Quarter-Finals","France","Wendie Renard  35,  DC","DC",9.11,0,0,1,73.8,12,87,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-08-11","Quarter-Finals","Spain","Teresa Abelleira  25,  MC","MC",9.07,2,2,4,75.8,8,104,"win",1,0
+"WomenWC2023_cleaned.csv","2023-08-06","Round of 16","USA","Andi Sullivan  29,  DMC","DMC",8.94,2,0,3,79.3,3,87,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Germany","Klara Bühl (63′) 24,  AML","AML",8.92,3,2,2,66.7,0,51,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-16","Semi-Finals","England","Lauren Hemp  25,  FW","FW",8.86,3,2,3,92.6,1,46,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-02","Group","France","Kadidiatou Diani (59′) 30,  FW","FW",8.86,7,4,0,66.7,1,33,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-21","Group","Costa Rica","Daniela Solera  28,  GK","GK",8.85,0,0,0,26.7,0,44,"loss",0,0
+"WomenWC2023_cleaned.csv","2023-08-03","Group","Germany","Alexandra Popp  34,  AMC","AMC",8.81,5,3,0,50,12,62,"draw",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Zambia","Racheal Kundananji  25,  ML","ML",8.81,5,4,2,57.7,1,67,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-30","Group","Norway","Guro Reiten  31,  MC","MC",8.81,5,3,2,80,0,47,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Italy","Lisa Boattin  28,  DL","DL",8.78,1,1,2,66.7,2,102,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Katja Snoeijs  29,  FW","FW",8.78,2,2,3,89.7,0,42,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Haiti","Kerly Théus  26,  GK","GK",8.77,0,0,0,51.7,0,47,"loss",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Australia","Mary Fowler  22,  FW","FW",8.75,3,1,0,62.5,0,48,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-27","Group","Portugal","Telma Encarnação (74′) 24,  FW","FW",8.74,7,4,3,71,1,54,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Daniëlle van de Donk (45′) 34,  MC","MC",8.73,2,2,3,89.3,0,41,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Japan","Hinata Miyazawa (92′) 25,  AMC","AMC",8.72,4,2,0,85.7,0,63,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-06","Round of 16","Sweden","Zecira Musovic  29,  GK","GK",8.71,0,0,0,44.8,0,52,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-08-12","Quarter-Finals","France","Élisa De Almeida (122′) 27,  DR","DR",8.7,1,0,0,75.6,2,103,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Japan","Aoba Fujino (76′) 21,  AMC","AMC",8.7,5,2,4,95.7,0,49,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-02","Group","South Africa","Hildah Magaia (94′) 30,  AMR","AMR",8.66,3,2,4,50,0,45,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Vietnam","Tran Thi Kim Thanh  32,  GK","GK",8.64,0,0,0,38.7,5,46,"loss",0,0
+"WomenWC2023_cleaned.csv","2023-07-27","Group","Portugal","Kika Nazareth (68′) 23,  AMC","AMC",8.61,4,2,3,77.5,1,57,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-21","Group","Spain","Ona Batlle (87′) 26,  DR","DR",8.56,0,0,3,85.1,1,98,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-07","Round of 16","Nigeria","Ashleigh Plumptre  27,  DL","DL",8.55,4,1,0,75.8,11,104,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Dominique Janssen  30,  DC","DC",8.55,2,0,2,87.9,5,112,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Australia","Hayley Raso (74′) 31,  MR","MR",8.55,3,3,0,66.7,0,37,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-07","Round of 16","England","Alex Greenwood  32,  DC","DC",8.54,0,0,3,87.8,3,99,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-08-02","Group","France","Léa Le Garrec  32,  MC","MC",8.53,4,1,3,86.2,0,88,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Japan","Riko Ueki (67′) 26,  FW","FW",8.53,1,1,2,60,2,47,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-29","Group","Sweden","Jonna Andersson  32,  DL","DL",8.52,1,0,4,60.7,0,55,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-29","Group","Sweden","Fridolina Rolfö (61′) 31,  AML","AML",8.51,5,1,0,87.9,0,51,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-19","3rd Place","Sweden","Kosovare Asllani (66′) 36,  AMC","AMC",8.49,4,2,1,68.8,0,53,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-30","Group","Germany","Lena Oberdorf  23,  DMC","DMC",8.46,3,0,0,80,4,101,"loss",0,0
+"WomenWC2023_cleaned.csv","2023-07-31","Group","Japan","Jun Endo (84′) 25,  DML","DML",8.46,0,0,1,58.6,0,57,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-21","Group","Nigeria","Chiamaka Nnadozie  24,  GK","GK",8.46,0,0,0,28,3,39,"draw",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","England","Rachel Daly  33,  ML","ML",8.44,2,1,2,84.8,1,79,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-28","Group","England","Lauren James  24,  FWL","FWL",8.43,3,3,0,88.6,0,71,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-06","Round of 16","Netherlands","Daphne van Domselaar  25,  GK","GK",8.42,0,0,0,73.3,0,26,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-26","Group","Spain","Alba Redondo (45′) 29,  Sub","Sub",8.38,4,4,1,71.4,1,22,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-05","Round of 16","Spain","Salma Paralluelo (83′) 22,  FWL","FWL",8.36,3,1,5,80.7,0,65,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Stefanie van der Gragt  33,  DC","DC",8.35,3,1,1,89.9,3,97,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-20","Final","Spain","Olga Carmona  25,  DL","DL",8.34,1,1,1,71.4,1,103,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Brazil","Bia Zaneratto (58′) 31,  FW","FW",8.34,7,3,1,75,1,46,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-26","Group","Japan","Hikaru Naomoto (73′) 31,  AMC","AMC",8.34,5,3,1,72.4,2,54,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-07","Round of 16","Australia","Caitlin Foord (94′) 31,  ML","ML",8.33,3,1,0,65,0,43,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-26","Group","Spain","Eva Navarro (45′) 24,  Sub","Sub",8.31,1,1,5,62.1,0,41,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-30","Group","Norway","Vilde Bøe Risa  30,  MC","MC",8.31,1,0,4,81.8,2,100,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-24","Group","Germany","Jule Brand  23,  AMR","AMR",8.3,2,0,2,70,2,60,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-08","Round of 16","France","Kenza Dali  34,  MR","MR",8.29,2,1,1,71.8,2,63,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-03","Group","Colombia","Catalina Pérez  31,  GK","GK",8.28,0,0,0,89.5,0,29,"loss",0,0
+"WomenWC2023_cleaned.csv","2023-08-06","Round of 16","USA","Lindsey Horan  31,  AMC","AMC",8.27,4,1,1,64.6,8,94,"draw",1,1
+"WomenWC2023_cleaned.csv","2023-08-02","Group","Jamaica","Rebecca Spencer  34,  GK","GK",8.27,0,0,0,23.1,0,51,"draw",0,0
+"WomenWC2023_cleaned.csv","2023-07-22","Group","Japan","Mina Tanaka (65′) 31,  FW","FW",8.27,5,2,2,70.8,0,41,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-02","Group","South Africa","Thembi Kgatlana  29,  FW","FW",8.26,4,2,1,61.9,1,47,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","England","Alex Greenwood  32,  DC","DC",8.25,0,0,2,89.9,2,158,"win",0,0
+"WomenWC2023_cleaned.csv","2023-08-01","Group","Netherlands","Sherida Spitse (72′) 35,  DC","DC",8.24,1,0,5,87.1,2,108,"win",0,0
+"WomenWC2023_cleaned.csv","2023-07-23","Group","Netherlands","Stefanie van der Gragt  33,  DC","DC",8.24,1,1,0,76.9,5,51,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-14","Group","Russia","Aleksandr Golovin  29,  ML","ML",10,1,1,5,69.7,1,67,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","England","Harry Kane (62′) 32,  FW","FW",9.86,3,3,1,90.9,1,23,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-15","Group","Portugal","Cristiano Ronaldo  40,  FW","FW",9.75,3,3,1,91.9,4,54,"draw",0,0
+"WorldCup2018_cleaned.csv","2018-06-15","Group","Uruguay","José María Giménez  30,  DC","DC",9.57,2,1,0,85.5,6,91,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-25","Group","Spain","Isco  33,  FWL","FWL",9.39,3,2,6,92.6,2,125,"draw",0,0
+"WorldCup2018_cleaned.csv","2018-06-30","Round of 16","Uruguay","Edinson Cavani (73′) 38,  FW","FW",9.22,3,2,1,75,5,30,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-14","Group","Russia","Denis Cheryshev (23′) 34,  Sub","Sub",9.18,4,3,0,82.4,2,35,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-23","Group","Belgium","Romelu Lukaku (58′) 32,  FW","FW",9.14,2,2,2,70.6,5,27,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-30","Round of 16","France","Kylian Mbappé (88′) 26,  MR","MR",9.01,2,2,0,73.9,0,51,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-06","Quarter-Finals","France","Antoine Griezmann (92′) 34,  AMC","AMC",8.97,2,1,2,77.6,1,81,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-02","Round of 16","Brazil","Neymar  33,  FWL","FWL",8.91,7,4,6,78.6,0,72,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-23","Group","Belgium","Eden Hazard (67′) 34,  AMC","AMC",8.91,4,3,3,83.3,1,46,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-03","Round of 16","England","Kieran Trippier  35,  MR","MR",8.85,1,0,5,65.8,3,81,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-22","Group","Nigeria","Ahmed Musa  33,  FW","FW",8.83,3,2,0,87.5,2,45,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-14","Group","Russia","Roman Zobnin  31,  MC","MC",8.81,2,1,2,56.3,4,54,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-01","Round of 16","Russia","Igor Akinfeev  39,  GK","GK",8.8,0,0,0,23.1,0,41,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-28","Group","Belgium","Marouane Fellaini  37,  AMC","AMC",8.8,2,0,2,77.8,6,58,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-28","Group","Tunisia","Wahbi Khazri (88′) 34,  FW","FW",8.78,5,3,5,90,1,48,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-07","Quarter-Finals","England","Harry Maguire  32,  DC","DC",8.75,2,1,2,82.4,10,67,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","Colombia","James Rodríguez  34,  AML","AML",8.72,2,0,3,87.7,0,89,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-21","Group","Croatia","Luka Modric  40,  MC","MC",8.69,2,1,2,82.1,2,62,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","England","John Stones  31,  DC","DC",8.67,2,2,0,95.9,1,106,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-21","Group","Croatia","Ivan Rakitic  37,  MC","MC",8.67,4,2,1,73.7,2,62,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-27","Group","Brazil","Thiago Silva  41,  DC","DC",8.66,1,1,0,90.4,3,64,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-01","Round of 16","Denmark","Kasper Schmeichel  39,  GK","GK",8.61,0,0,0,58.7,0,62,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-19","Group","Russia","Artem Dzyuba (78′) 37,  FW","FW",8.61,2,1,0,71,13,53,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-18","Group","Belgium","Romelu Lukaku  32,  FW","FW",8.6,3,2,0,68.8,2,30,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-26","Group","Argentina","Marcos Rojo  35,  DC","DC",8.6,1,1,1,78.6,7,77,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-11","Semi-Finals","Croatia","Ivan Perisic  36,  ML","ML",8.57,7,1,3,71.4,2,57,"win",1,0
+"WorldCup2018_cleaned.csv","2018-06-28","Group","Colombia","Yerry Mina  31,  DC","DC",8.57,1,1,0,91.5,6,75,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-23","Group","Germany","Toni Kroos  35,  DMC","DMC",8.55,5,1,2,92.7,1,147,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-18","Group","Belgium","Dries Mertens (82′) 38,  AMC","AMC",8.52,4,2,1,62.5,0,55,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-03","Round of 16","England","Harry Kane  32,  FW","FW",8.5,3,1,1,60.5,11,64,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-27","Group","South Korea","Jo Hyeon-Woo  34,  GK","GK",8.46,0,0,0,34.4,2,49,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-17","Group","Mexico","Jesús Gallardo  31,  DL","DL",8.45,0,0,1,77.1,2,81,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-14","3rd Place","Belgium","Eden Hazard  34,  FW","FW",8.43,2,1,3,78.6,0,78,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-01","Round of 16","Spain","Isco  33,  AML","AML",8.42,2,0,2,89,0,202,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-07-06","Quarter-Finals","Belgium","Kevin De Bruyne  34,  FW","FW",8.41,3,2,3,81.1,1,52,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-22","Group","Nigeria","Kenneth Omeruo  32,  DC","DC",8.4,0,0,2,70,6,61,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-02","Round of 16","Brazil","Willian (90′) 37,  FWR","FWR",8.39,3,2,4,80.6,1,72,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-30","Round of 16","Portugal","Raphaël Guerreiro  31,  DL","DL",8.38,2,0,4,82.5,4,106,"loss",0,0
+"WorldCup2018_cleaned.csv","2018-06-18","Group","Sweden","Andreas Granqvist  40,  DC","DC",8.37,3,2,3,87.3,1,89,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-27","Group","Costa Rica","Joel Campbell  33,  FW","FW",8.35,2,1,4,80,1,50,"draw",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","Colombia","Juan Cuadrado  37,  AMR","AMR",8.32,3,1,3,96.3,1,84,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-22","Group","Brazil","Philippe Coutinho  33,  MC","MC",8.32,6,4,6,92.9,1,98,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","England","Jesse Lingard (62′) 32,  MC","MC",8.31,2,1,0,93.6,0,44,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-11","Semi-Finals","England","Kieran Trippier  35,  MR","MR",8.3,1,1,4,61.4,3,85,"loss",1,0
+"WorldCup2018_cleaned.csv","2018-06-27","Group","Brazil","Neymar  33,  FWL","FWL",8.29,7,3,4,84.8,0,117,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-18","Group","England","Harry Kane  32,  FW","FW",8.28,3,2,0,60.9,5,36,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-20","Group","Portugal","João Moutinho (88′) 39,  MC","MC",8.28,0,0,2,83.8,3,59,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-26","Group","Argentina","Lionel Messi  38,  FW","FW",8.27,2,2,2,77.4,0,87,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-06","Quarter-Finals","France","Raphaël Varane  32,  DC","DC",8.26,2,1,0,87.9,5,45,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-19","Group","Japan","Yuya Osako (84′) 35,  FW","FW",8.26,5,3,2,70,5,36,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-26","Group","Croatia","Milan Badelj  36,  MC","MC",8.25,2,1,2,91.2,0,91,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-26","Group","Peru","Paolo Guerrero  41,  FW","FW",8.23,2,2,1,52.9,3,26,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-15","Group","Spain","Diego Costa (76′) 37,  FW","FW",8.22,3,2,0,94.1,0,27,"draw",0,0
+"WorldCup2018_cleaned.csv","2018-07-06","Quarter-Finals","Belgium","Thibaut Courtois  33,  GK","GK",8.21,0,0,0,51.9,0,45,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-17","Group","Mexico","Guillermo Ochoa  40,  GK","GK",8.21,0,0,0,54.3,0,54,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-27","Group","South Korea","Kim Young-Gwon  35,  DC","DC",8.21,1,1,0,77.8,0,32,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-27","Group","Sweden","Andreas Granqvist  40,  DC","DC",8.21,2,1,1,73.1,2,41,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-16","Group","Denmark","Kasper Schmeichel  39,  GK","GK",8.21,0,0,0,62.5,0,43,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-15","Group","Uruguay","Diego Godín  39,  DC","DC",8.21,0,0,1,85.3,5,88,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-02","Round of 16","Belgium","Eden Hazard  34,  AMC","AMC",8.2,3,1,5,83.3,0,82,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-15","Final","France","Paul Pogba  32,  MC","MC",8.18,2,1,1,84.4,2,53,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-02","Round of 16","Belgium","Nacer Chadli (64′) 36,  Sub","Sub",8.16,2,2,1,88.9,2,21,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-03","Round of 16","Colombia","Yerry Mina  31,  DC","DC",8.16,1,1,1,91.4,5,79,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-14","Group","Russia","Yuri Gazinskiy  36,  MC","MC",8.16,1,1,0,83.9,2,40,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-07","Quarter-Finals","England","Jesse Lingard  32,  MC","MC",8.12,3,0,2,91.1,0,61,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-18","Group","Belgium","Eden Hazard  34,  AMC","AMC",8.11,4,1,3,76.3,1,69,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-07","Quarter-Finals","Croatia","Luka Modric  40,  DMC","DMC",8.1,3,0,3,88.1,0,136,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-07-03","Round of 16","Colombia","Juan Cuadrado  37,  FW","FW",8.1,2,0,4,83.3,0,71,"draw",1,1
+"WorldCup2018_cleaned.csv","2018-06-30","Round of 16","Argentina","Lionel Messi  38,  FW","FW",8.08,4,1,3,83.8,0,67,"loss",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","England","Kieran Trippier (69′) 35,  DMR","DMR",8.08,0,0,1,87.5,2,37,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-14","Group","Russia","Sergey Ignashevich  46,  DC","DC",8.08,0,0,0,77.8,8,49,"win",0,0
+"WorldCup2018_cleaned.csv","2018-07-10","Semi-Finals","France","Blaise Matuidi (85′) 38,  MC","MC",8.07,3,1,2,90.5,2,42,"win",0,0
+"WorldCup2018_cleaned.csv","2018-06-24","Group","Colombia","Santiago Arias  33,  DR","DR",8.07,1,0,0,97.7,3,71,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Portugal","Gonçalo Ramos (73′) 24,  FW","FW",10,6,5,2,70,3,27,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-04","Round of 16","France","Kylian Mbappé  26,  AML","AML",9.79,5,3,2,88.6,0,66,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-01","Group","Germany","Jamal Musiala  22,  AMC","AMC",9.24,8,2,3,69.8,1,86,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-29","Group","England","Marcus Rashford (75′) 28,  FWL","FWL",9.24,6,4,0,74.2,1,50,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-21","Group","England","Bukayo Saka (70′) 24,  AMR","AMR",9.2,3,3,1,82.1,1,51,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-03","Round of 16","Netherlands","Daley Blind  35,  ML","ML",9.16,2,1,1,77.1,1,57,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-03","Round of 16","Netherlands","Denzel Dumfries  29,  MR","MR",9.01,1,1,2,63.2,2,70,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-18","Final","France","Kylian Mbappé  26,  AML","AML",8.92,6,3,0,76.2,0,48,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-26","Group","Poland","Robert Lewandowski  37,  FW","FW",8.9,5,2,1,70,2,51,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-18","Final","Argentina","Lionel Messi  38,  FWR","FWR",8.89,5,4,3,86.8,2,86,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-20","Group","Ecuador","Enner Valencia (76′) 36,  FW","FW",8.83,2,2,0,61.9,1,41,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Antoine Griezmann  34,  AMC","AMC",8.75,3,1,6,85.5,1,88,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-09","Quarter-Finals","Netherlands","Wout Weghorst (77′) 33,  Sub","Sub",8.73,2,2,0,60,2,16,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Spain","Dani Olmo  27,  FWL","FWL",8.71,4,2,1,87.9,0,84,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","South Korea","Cho Gue-Sung  27,  FW","FW",8.7,6,4,0,64.7,6,34,"loss",0,0
+"WorldCup2022_cleaned.csv","2022-12-09","Quarter-Finals","Argentina","Lionel Messi  38,  FW","FW",8.69,6,2,3,82.2,0,70,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Portugal","Bruno Fernandes  31,  AMC","AMC",8.69,6,3,0,84.2,0,83,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-02","Group","Uruguay","Giorgian de Arrascaeta (79′) 31,  ML","ML",8.68,2,2,2,63.6,0,43,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Portugal","João Félix (72′) 26,  FWL","FWL",8.66,1,0,2,83.9,0,42,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-02","Group","Cameroon","Dévis Epassy  32,  GK","GK",8.65,0,0,0,73,1,52,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-01","Group","Germany","Serge Gnabry  30,  AML","AML",8.65,4,1,4,78.1,0,66,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Adrien Rabiot  30,  DMC","DMC",8.65,1,1,1,90.5,2,80,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","France","Kylian Mbappé  26,  AML","AML",8.63,6,4,3,90.3,0,57,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","Poland","Wojciech Szczesny  35,  GK","GK",8.59,0,0,0,55.3,0,46,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Ghana","Mohammed Kudus (82′) 25,  AMR","AMR",8.58,2,2,0,75,0,38,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Poland","Wojciech Szczesny  35,  GK","GK",8.53,0,0,0,51.7,0,42,"loss",0,0
+"WorldCup2022_cleaned.csv","2022-11-24","Group","Brazil","Richarlison (78′) 28,  FW","FW",8.52,3,2,0,75,1,25,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-13","Semi-Finals","Argentina","Julián Alvarez (73′) 25,  FW","FW",8.49,2,2,0,85.7,0,28,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-04","Round of 16","England","Jude Bellingham (75′) 22,  MC","MC",8.46,0,0,1,90.9,2,58,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Olivier Giroud (88′) 39,  FW","FW",8.45,5,2,1,83.3,3,19,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Cameroon","Vincent Aboubakar (54′) 33,  Sub","Sub",8.43,3,2,1,87.5,0,16,"draw",0,0
+"WorldCup2022_cleaned.csv","2022-11-21","Group","England","Jude Bellingham  22,  DMC","DMC",8.4,1,1,0,95.8,1,113,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-13","Semi-Finals","Argentina","Lionel Messi  38,  FW","FW",8.38,2,2,2,85,0,65,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-27","Group","Croatia","Andrej Kramaric (72′) 34,  FWR","FWR",8.38,5,3,0,86.7,0,42,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-18","Final","Argentina","Ángel Di María (63′) 37,  FWL","FWL",8.34,2,1,3,96.3,0,51,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Spain","Jordi Alba (63′) 36,  DL","DL",8.33,0,0,1,94.4,0,125,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Portugal","Bruno Fernandes (86′) 31,  FWR","FWR",8.31,0,0,3,85.7,0,51,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-14","Semi-Finals","France","Theo Hernández  28,  DL","DL",8.29,1,1,0,67.9,1,46,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-05","Round of 16","Brazil","Richarlison  28,  FW","FW",8.28,2,2,2,81.8,1,42,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Cameroon","Jean-Charles Castelletto  30,  DC","DC",8.28,1,1,1,71.4,3,52,"draw",0,0
+"WorldCup2022_cleaned.csv","2022-11-27","Group","Morocco","Romain Saïss  35,  DC","DC",8.28,1,1,0,84.2,4,54,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Belgium","Thibaut Courtois  33,  GK","GK",8.25,0,0,0,79.2,0,54,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-04","Round of 16","England","Phil Foden (64′) 25,  FWL","FWL",8.24,0,0,3,80.7,1,40,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Mexico","Luis Chávez  29,  DMC","DMC",8.24,9,4,1,66.7,2,77,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Argentina","Alexis Mac Allister (83′) 26,  MC","MC",8.24,2,2,3,96.2,0,66,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-27","Group","Morocco","Hakim Ziyech  32,  FWR","FWR",8.22,2,1,2,76,0,56,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Portugal","Raphaël Guerreiro  31,  DL","DL",8.21,2,1,2,90.6,1,54,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-09","Quarter-Finals","Brazil","Neymar  33,  AMC","AMC",8.2,5,5,1,78,0,97,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-27","Group","Croatia","Ivan Perisic (85′) 36,  FWL","FWL",8.2,2,1,3,77.4,0,56,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","France","Antoine Griezmann (92′) 34,  AMC","AMC",8.2,2,1,3,81,0,63,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Spain","Gavi  21,  MC","MC",8.19,1,1,1,90.5,1,95,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Kylian Mbappé  26,  AML","AML",8.18,7,1,3,78.7,1,84,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Argentina","Lionel Messi  38,  FW","FW",8.18,7,4,5,84.3,1,98,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-05","Round of 16","Brazil","Vinícius Júnior (71′) 25,  AML","AML",8.17,2,1,2,91.7,0,40,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-03","Round of 16","Argentina","Lionel Messi  38,  FW","FW",8.15,6,2,4,87.9,0,75,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-05","Round of 16","Croatia","Dominik Livakovic  30,  GK","GK",8.12,0,0,0,70,0,51,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-11-21","Group","England","Harry Kane (75′) 32,  FW","FW",8.12,0,0,2,69.2,0,19,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Spain","Rodri  29,  DC","DC",8.11,1,0,1,92.8,8,235,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-12-01","Group","Germany","Kai Havertz (65′) 26,  Sub","Sub",8.11,5,3,1,81.8,0,19,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-03","Round of 16","Netherlands","Cody Gakpo (92′) 26,  FW","FW",8.1,1,0,4,77.8,0,45,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-29","Group","Netherlands","Cody Gakpo (82′) 26,  FW","FW",8.1,2,1,1,83.9,1,49,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-29","Group","Senegal","Kalidou Koulibaly  34,  DC","DC",8.09,2,1,0,58.1,3,54,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Ghana","Mohammed Salisu  26,  DC","DC",8.08,1,1,1,75.6,4,61,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Serbia","Sergej Milinkovic-Savic (78′) 30,  AMC","AMC",8.07,3,1,0,72.9,1,77,"draw",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Ousmane Dembélé (76′) 28,  AMR","AMR",8.07,2,0,3,75.9,0,47,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-09","Quarter-Finals","Croatia","Dominik Livakovic  30,  GK","GK",8.06,0,0,0,78.8,0,54,"draw",1,1
+"WorldCup2022_cleaned.csv","2022-12-05","Round of 16","Brazil","Lucas Paquetá  28,  DMC","DMC",8.06,2,2,3,89.7,1,68,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Spain","Álvaro Morata (56′) 33,  Sub","Sub",8.06,2,1,1,77.8,0,15,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","Argentina","Lionel Messi  38,  FW","FW",8.04,2,1,1,87.8,1,67,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-21","Group","Netherlands","Frenkie de Jong  28,  MC","MC",8.04,0,0,2,85.5,2,81,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-20","Group","Ecuador","Ángelo Preciado  27,  DR","DR",8.04,1,0,1,83.8,2,65,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-24","Group","Portugal","Bruno Fernandes  31,  FWR","FWR",8.03,0,0,3,94.1,1,67,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Cameroon","Eric Choupo-Moting  36,  FW","FW",8.03,1,1,2,69.2,4,35,"draw",0,0
+"WorldCup2022_cleaned.csv","2022-12-05","Round of 16","Brazil","Raphinha  28,  AMR","AMR",8.02,5,3,3,82.1,0,66,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-23","Group","Belgium","Toby Alderweireld  36,  DC","DC",8.02,0,0,1,90.8,0,91,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","France","Theo Hernández  28,  DL","DL",8.02,0,0,5,88.7,1,87,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-04","Round of 16","England","Bukayo Saka (64′) 24,  FWR","FWR",8.01,2,1,1,80.8,0,36,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-02","Group","Uruguay","Sergio Rochet  32,  GK","GK",8.01,0,0,0,60.9,0,36,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-27","Group","Croatia","Mateo Kovacic (85′) 31,  MC","MC",8,0,0,4,93.3,0,58,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","France","Eduardo Camavinga  23,  DL","DL",7.99,0,0,1,85.1,2,118,"loss",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Brazil","Alex Sandro (85′) 34,  DL","DL",7.97,0,0,1,88.5,1,93,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-26","Group","Australia","Mitch Duke (63′) 34,  FW","FW",7.96,4,2,0,55.6,6,33,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-02","Group","South Korea","Son Heung-Min  33,  FWL","FWL",7.94,5,2,3,81.3,0,42,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-22","Group","France","Theo Hernández (12′) 28,  Sub","Sub",7.93,2,1,4,92.7,2,81,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-28","Group","Brazil","Casemiro  33,  MC","MC",7.92,2,1,0,85.4,0,61,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Saudi Arabia","Mohammed Al Owais  34,  GK","GK",7.92,0,0,0,35,3,62,"loss",0,0
+"WorldCup2022_cleaned.csv","2022-12-06","Round of 16","Portugal","Diogo Dalot  26,  DR","DR",7.91,0,0,1,89.3,1,50,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-01","Group","Morocco","Youssef En-Nesyri  28,  FW","FW",7.91,1,1,0,68.4,4,36,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-03","Round of 16","Netherlands","Memphis Depay (82′) 31,  FW","FW",7.9,4,3,1,81.5,1,45,"win",0,0
+"WorldCup2022_cleaned.csv","2022-12-01","Group","Belgium","Thibaut Courtois  33,  GK","GK",7.9,0,0,0,90,0,41,"draw",0,0
+"WorldCup2022_cleaned.csv","2022-11-30","Group","Mexico","Henry Martín (76′) 33,  FW","FW",7.9,3,1,4,75,3,21,"win",0,0
+"WorldCup2022_cleaned.csv","2022-11-21","Group","England","Raheem Sterling (70′) 31,  AML","AML",7.89,1,1,1,86.2,1,38,"win",0,0

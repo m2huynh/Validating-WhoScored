@@ -1,0 +1,10 @@
+Package: WhoScoredRatingValidation
+Type: Project
+Title: Validation of WhoScored Ratings and Exceptional Performance Thresholds
+Version: 0.1.0
+Authors@R: person(given = "Minh", family = "Huynh", role = c("aut", "cre")")
+Description: Reproducible R project for validating WhoScored football ratings using Study 1 league data and Study 3 tournament data, including 2 SD exceptional-performance analyses.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1.0)

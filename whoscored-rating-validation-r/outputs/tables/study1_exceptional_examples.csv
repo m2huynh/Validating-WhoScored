@@ -1,0 +1,667 @@
+"Player","Team","Match_Date","Home_Team","Away_Team","broad_position","Min","ws_rating","Gls","Ast","Sh","SoT","xG_Expected","xA","KP","Cmp_Passes","PrgP","TklW_Tackles","Int","Clr","Recov","Won_Aerial_Duels"
+"roberto firmino","Liverpool","27/08/2022","liverpool","bournemouth","FWD",68,10,2,3,5,4,1.2,0.4,4,21,3,0,1,0,4,0
+"luis diaz","Liverpool","27/08/2022","liverpool","bournemouth","FWD",90,10,2,0,2,2,0.4,0.1,1,46,4,0,1,0,7,1
+"ivan toney","Brentford","03/09/2022","brentford","leeds united","FWD",90,10,3,0,5,3,1.1,0,0,10,2,1,0,0,1,1
+"erling haaland","Manchester City","02/10/2022","manchester city","manchester united","FWD",90,10,3,2,6,3,1.1,0.8,4,17,6,0,1,0,2,2
+"phil foden","Manchester City","02/10/2022","manchester city","manchester united","FWD",74,10,3,0,6,4,1.1,0,0,22,2,1,1,0,5,0
+"james maddison","Leicester City","03/10/2022","leicester city","nottingham forest","MID",84,10,2,1,3,2,0.2,0.7,4,45,8,1,2,1,6,0
+"mohamed salah","Liverpool","05/03/2023","liverpool","manchester united","FWD",90,10,2,2,3,2,0.7,0.5,3,24,7,0,0,0,4,0
+"michael olise","Crystal Palace","09/04/2023","leeds united","crystal palace","FWD",90,10,0,3,2,1,0.1,0.9,6,31,4,2,2,0,7,3
+"dwight mcneil","Everton","08/05/2023","brighton  hove albion","everton","MID",90,10,2,1,4,2,1.3,0.3,3,11,1,1,0,4,8,0
+"ollie watkins","Aston Villa","30/09/2023","aston villa","brighton  hove albion","FWD",90,10,3,1,6,4,0.8,0.2,5,17,3,0,0,1,3,1
+"jeremy doku","Manchester City","04/11/2023","manchester city","bournemouth","DEF",90,10,1,4,3,1,0.1,0.4,5,36,5,2,0,0,4,0
+"phil foden","Manchester City","03/04/2024","manchester city","aston villa","MID",79,10,3,0,4,3,0.4,0.5,3,51,8,2,0,1,3,0
+"cole palmer","Chelsea","04/04/2024","chelsea","manchester united","MID",90,10,3,0,7,3,1.8,0.4,8,34,5,1,2,0,2,0
+"anthony gordon","Newcastle United","13/04/2024","newcastle united","tottenham hotspur","FWD",90,10,1,2,2,1,0.6,0.8,8,19,3,1,2,0,3,0
+"cole palmer","Chelsea","15/04/2024","chelsea","everton","MID",79,10,4,0,4,4,2.3,0.1,0,24,4,0,1,0,2,0
+"erling haaland","Manchester City","04/05/2024","manchester city","wolverhampton wanderers","FWD",81,10,4,0,6,5,2.1,0.1,1,10,2,0,0,0,4,2
+"nicolas jackson","Chelsea","05/05/2024","chelsea","west ham united","FWD",90,10,2,1,7,4,1.7,0,4,21,3,1,0,0,7,1
+"eberechi eze","Crystal Palace","19/05/2024","crystal palace","aston villa","MID",87,10,2,1,5,4,0.3,0.1,1,33,2,3,0,0,8,0
+"evan ferguson","Brighton & Hove Albion","02/09/2023","brighton  hove albion","newcastle united","FWD",80,9.96,3,0,4,4,0.8,0,0,17,3,0,0,0,1,1
+"michael olise","Crystal Palace","30/12/2023","crystal palace","brentford","FWD",90,9.96,2,0,6,3,0.5,0.4,2,51,11,1,0,4,1,1
+"dominic solanke","Bournemouth","23/12/2023","nottingham forest","bournemouth","FWD",90,9.95,3,0,6,3,0.7,0,1,9,3,0,0,3,5,6
+"jeanphilippe mateta","Crystal Palace","19/05/2024","crystal palace","aston villa","FWD",75,9.95,3,1,3,3,1.6,0.1,2,11,0,0,0,1,1,0
+"martin odegaard","Arsenal","23/04/2024","arsenal","chelsea","MID",90,9.89,0,2,2,0,0.1,1.4,8,60,17,0,1,0,6,0
+"bruno fernandes","Manchester United","19/02/2023","manchester united","leicester city","MID",90,9.88,0,2,3,1,0.1,1.1,9,42,9,1,0,2,10,0
+"eddie nketiah","Arsenal","28/10/2023","arsenal","sheffield united","FWD",90,9.86,3,0,4,3,1,0,0,14,1,0,0,1,1,2
+"kevin de bruyne","Manchester City","06/04/2024","crystal palace","manchester city","MID",89,9.85,2,1,3,2,0.1,1.2,4,63,11,1,0,1,5,1
+"kevin de bruyne","Manchester City","13/08/2022","manchester city","bournemouth","MID",90,9.84,1,1,4,2,0.2,0.6,5,52,9,0,0,0,1,0
+"declan rice","Arsenal","11/02/2024","west ham united","arsenal","MID",66,9.84,1,2,1,1,0,0.8,4,70,8,0,1,2,2,0
+"julian alvarez","Manchester City","31/08/2022","manchester city","nottingham forest","MID",90,9.76,2,0,5,3,0.7,0.2,2,23,3,2,0,1,1,0
+"solly march","Brighton & Hove Albion","19/08/2023","wolverhampton wanderers","brighton  hove albion","MID",90,9.73,2,0,5,4,0.9,0.1,1,18,1,3,4,3,9,0
+"bruno guimaraes","Newcastle United","24/09/2023","sheffield united","newcastle united","MID",80,9.72,1,1,1,1,0.3,0.3,4,61,4,2,1,0,8,2
+"bruno fernandes","Manchester United","24/04/2024","manchester united","sheffield united","MID",90,9.72,2,1,4,2,0.9,1.1,9,69,12,0,0,1,2,0
+"ollie watkins","Aston Villa","15/04/2023","aston villa","newcastle united","FWD",89,9.71,2,1,6,4,1,0.2,2,12,0,0,0,1,0,1
+"harry kane","Tottenham Hotspur","04/01/2023","crystal palace","tottenham hotspur","FWD",90,9.69,2,0,4,2,0.4,0.3,3,23,8,0,0,2,3,5
+"matheus cunha","Wolverhampton Wanderers","04/02/2024","chelsea","wolverhampton wanderers","MID",90,9.69,3,0,4,3,1.2,0.1,1,26,1,0,0,1,5,0
+"noni madueke","Chelsea","05/05/2024","chelsea","west ham united","MID",75,9.69,1,1,7,4,0.6,0.6,6,45,5,0,0,2,1,0
+"danny welbeck","Brighton & Hove Albion","29/04/2023","brighton  hove albion","wolverhampton wanderers","FWD",55,9.68,2,1,5,3,0.7,0,2,16,3,0,0,1,5,2
+"bukayo saka","Arsenal","11/02/2024","west ham united","arsenal","FWD",66,9.67,2,0,7,2,1.7,0.5,3,49,9,0,0,0,6,1
+"diogo jota","Liverpool","21/01/2024","bournemouth","liverpool","FWD",89,9.66,2,1,2,2,0.1,0.4,1,19,5,2,1,0,5,1
+"alphonse areola","West Ham United","02/03/2024","everton","west ham united","GK",90,9.62,0,0,0,0,0,0,0,22,0,0,1,1,1,0
+"aleksandar mitrovic","Fulham","06/08/2022","fulham","liverpool","FWD",90,9.61,2,0,2,1,0.9,0,1,10,4,0,1,3,7,11
+"son heungmin","Tottenham Hotspur","02/09/2023","burnley","tottenham hotspur","FWD",71,9.61,3,0,5,3,1.1,0.1,1,15,5,0,0,0,2,0
+"gabriel jesus","Arsenal","13/08/2022","arsenal","leicester city","FWD",83,9.6,2,2,7,3,1.8,0.1,3,22,3,0,0,0,1,4
+"erling haaland","Manchester City","31/08/2022","manchester city","nottingham forest","FWD",68,9.6,3,0,4,3,1.6,0,0,6,1,1,0,0,0,1
+"chris wood","Nottingham Forest","26/12/2023","newcastle united","nottingham forest","FWD",90,9.6,3,0,3,3,2.2,0,0,13,3,0,0,4,3,2
+"kevin de bruyne","Manchester City","26/04/2023","manchester city","arsenal","MID",79,9.58,2,1,4,2,0.6,0.2,2,24,4,0,0,0,3,3
+"erling haaland","Manchester City","02/09/2023","manchester city","fulham","FWD",90,9.58,3,1,3,2,1.6,0.1,2,4,1,0,0,2,1,0
+"kieran trippier","Newcastle United","24/09/2023","sheffield united","newcastle united","DEF",69,9.58,0,3,0,0,0,0.7,5,57,7,2,0,0,6,2
+"jordan ayew","Crystal Palace","09/04/2023","leeds united","crystal palace","FWD",79,9.57,2,0,4,2,0.8,0,0,16,0,2,0,0,6,3
+"erling haaland","Manchester City","26/04/2023","manchester city","arsenal","FWD",90,9.55,1,2,6,5,1.6,0.2,3,17,7,0,0,0,3,3
+"nicolas jackson","Chelsea","06/11/2023","tottenham hotspur","chelsea","FWD",90,9.53,3,0,6,4,2.9,0.1,0,10,1,0,0,0,1,0
+"anthony gordon","Newcastle United","24/09/2023","sheffield united","newcastle united","MID",79,9.51,1,1,4,3,0.7,0.4,3,26,5,2,1,0,6,1
+"jordan ayew","Crystal Palace","24/02/2024","crystal palace","burnley","MID",89,9.51,1,1,1,1,0.5,0.4,5,33,4,1,0,0,3,2
+"riyad mahrez","Manchester City","19/01/2023","manchester city","tottenham hotspur","MID",90,9.5,2,1,4,2,0.7,1,3,48,5,1,0,0,3,0
+"son heungmin","Tottenham Hotspur","10/12/2023","tottenham hotspur","newcastle united","MID",89,9.5,1,2,3,1,1.1,0.3,4,28,3,1,2,0,7,0
+"phil foden","Manchester City","05/02/2024","brentford","manchester city","MID",90,9.44,3,0,6,4,0.7,0.2,3,78,3,0,0,3,6,0
+"ollie watkins","Aston Villa","03/02/2024","sheffield united","aston villa","FWD",90,9.43,1,2,3,2,0.6,0.1,2,15,1,0,0,0,1,2
+"ben white","Arsenal","23/04/2024","arsenal","chelsea","DEF",90,9.43,2,0,2,2,0.3,0.1,3,53,6,2,1,0,7,3
+"jose sa","Wolverhampton Wanderers","26/08/2023","everton","wolverhampton wanderers","GK",90,9.42,0,0,0,0,0,0,0,43,0,0,0,2,1,1
+"nicolas jackson","Chelsea","15/04/2024","chelsea","everton","FWD",87,9.42,1,1,3,2,0.5,0.1,2,13,1,0,0,0,5,1
+"jeremy doku","Manchester City","13/04/2024","manchester city","luton town","MID",90,9.41,1,1,6,1,0.5,0.3,3,54,5,1,0,0,2,0
+"elijah adebayo","Luton Town","30/01/2024","luton town","brighton  hove albion","FWD",70,9.38,3,0,4,3,1.5,0,1,8,3,0,0,0,4,0
+"jarrod bowen","West Ham United","26/02/2024","west ham united","brentford","FWD",90,9.38,3,0,3,3,0.6,0,0,20,1,0,0,1,5,2
+"son heungmin","Tottenham Hotspur","10/03/2024","aston villa","tottenham hotspur","FWD",90,9.35,1,2,2,2,0.2,0.3,2,38,2,1,0,0,1,0
+"gabriel jesus","Arsenal","28/05/2023","arsenal","wolverhampton wanderers","FWD",90,9.34,1,1,1,1,0.3,0.4,1,36,3,2,1,2,4,1
+"jacob murphy","Newcastle United","21/10/2023","newcastle united","crystal palace","FWD",90,9.34,1,2,2,2,0,0.4,2,28,7,0,0,3,5,0
+"phil foden","Manchester City","19/05/2024","manchester city","west ham united","MID",89,9.34,2,0,6,4,0.3,0.3,5,75,6,0,0,0,4,0
+"bryan mbeumo","Brentford","21/10/2023","brentford","burnley","FWD",90,9.33,1,1,6,4,0.4,1.2,3,30,9,1,0,0,2,1
+"son heungmin","Tottenham Hotspur","17/09/2022","tottenham hotspur","leicester city","MID",32,9.32,3,0,4,4,0.7,0,0,5,0,0,0,0,1,1
+"edson alvarez","West Ham United","02/03/2024","everton","west ham united","DEF",90,9.31,1,0,2,2,0.3,0.2,0,42,4,2,5,3,7,0
+"joao pedro","Brighton & Hove Albion","28/12/2023","brighton  hove albion","tottenham hotspur","FWD",89,9.29,2,1,2,2,1.9,0.1,2,26,2,2,1,1,7,2
+"kai havertz","Arsenal","23/04/2024","arsenal","chelsea","FWD",71,9.28,2,0,4,4,1,0.1,2,22,0,0,0,0,2,4
+"yoane wissa","Brentford","20/04/2024","luton town","brentford","FWD",81,9.27,2,0,2,2,0.6,0.1,3,11,3,1,0,0,2,0
+"trent alexanderarnold","Liverpool","27/08/2022","liverpool","bournemouth","DEF",82,9.26,1,0,1,1,0,0.3,3,97,11,2,2,0,12,0
+"chris wood","Nottingham Forest","23/12/2023","nottingham forest","bournemouth","FWD",90,9.25,1,1,4,2,0.3,0.2,2,13,6,1,0,2,5,11
+"dejan kulusevski","Tottenham Hotspur","19/05/2024","sheffield united","tottenham hotspur","FWD",90,9.24,2,0,5,3,0.6,0,2,23,3,1,1,0,3,1
+"aleksandar mitrovic","Fulham","26/12/2022","crystal palace","fulham","FWD",84,9.23,1,1,7,4,0.8,0.2,2,22,3,0,0,0,3,4
+"phil foden","Manchester City","03/03/2024","manchester city","manchester united","MID",89,9.23,2,0,9,4,1,0.7,2,81,14,0,1,0,5,0
+"joao cancelo","Manchester City","08/10/2022","manchester city","southampton","DEF",69,9.22,1,1,1,1,0.2,0.2,3,69,5,0,1,1,7,0
+"solly march","Brighton & Hove Albion","14/01/2023","brighton  hove albion","liverpool","MID",90,9.22,2,1,4,2,0.8,0.2,4,25,5,0,0,0,5,0
+"bukayo saka","Arsenal","21/04/2023","arsenal","southampton","FWD",90,9.22,1,1,2,1,0.3,0.5,5,39,7,2,0,0,4,1
+"martin odegaard","Arsenal","11/02/2024","west ham united","arsenal","MID",90,9.22,0,2,1,0,0,0.5,7,109,23,0,1,0,5,0
+"kevin de bruyne","Manchester City","01/04/2023","manchester city","liverpool","MID",90,9.21,1,1,1,1,0.8,0.6,5,65,16,0,1,1,3,1
+"leandro trossard","Brighton & Hove Albion","01/10/2022","liverpool","brighton  hove albion","FWD",86,9.2,3,0,4,4,0.9,0.1,0,15,4,0,1,0,4,0
+"bukayo saka","Arsenal","19/03/2023","arsenal","crystal palace","FWD",90,9.2,2,1,3,2,0.4,0.2,3,25,5,0,0,0,3,0
+"conor bradley","Liverpool","31/01/2024","liverpool","chelsea","DEF",67,9.2,1,2,1,1,0.1,0.4,4,33,2,2,0,1,2,0
+"cole palmer","Chelsea","30/03/2024","chelsea","burnley","MID",90,9.2,2,0,8,3,1.7,0.5,5,42,7,0,0,0,3,0
+"joelinton","Newcastle United","23/04/2023","newcastle united","tottenham hotspur","FWD",90,9.19,1,0,4,2,1.3,0,1,54,5,0,2,1,4,2
+"kamaldeen sulemana","Southampton","28/05/2023","southampton","liverpool","FWD",85,9.19,2,0,5,3,0.6,0,1,6,1,1,1,0,3,2
+"rodri","Manchester City","12/02/2023","manchester city","aston villa","DEF",90,9.18,1,0,3,2,0.3,0.3,4,94,7,0,1,1,7,5
+"eberechi eze","Crystal Palace","09/04/2023","leeds united","crystal palace","MID",90,9.18,1,0,1,1,0.6,0.1,3,35,6,0,0,0,6,1
+"darwin nunez","Liverpool","21/01/2024","bournemouth","liverpool","FWD",90,9.18,2,0,3,3,0.8,0.4,3,21,3,2,0,0,2,2
+"kai havertz","Arsenal","04/03/2024","sheffield united","arsenal","FWD",90,9.18,1,1,2,2,0.2,0.2,4,43,4,0,0,0,6,0
+"diogo jota","Liverpool","17/04/2023","leeds united","liverpool","FWD",81,9.17,2,1,5,2,0.6,0,1,22,1,0,0,1,6,3
+"michael olise","Crystal Palace","06/05/2024","crystal palace","manchester united","MID",84,9.17,2,0,6,3,0.5,0.1,2,37,9,0,1,0,4,0
+"bruno fernandes","Manchester United","19/10/2022","manchester united","tottenham hotspur","MID",90,9.16,1,0,6,3,0.2,0.5,9,66,6,2,1,0,8,0
+"leandro trossard","Arsenal","12/03/2023","fulham","arsenal","FWD",76,9.16,0,3,2,1,0.2,0.5,3,29,4,1,1,0,6,0
+"virgil van dijk","Liverpool","27/08/2022","liverpool","bournemouth","DEF",90,9.15,1,0,3,1,0.2,0.1,0,89,9,1,1,1,9,8
+"eberechi eze","Crystal Palace","15/04/2023","southampton","crystal palace","MID",90,9.15,2,0,3,2,0.3,0.1,0,23,6,3,0,1,5,1
+"willian","Fulham","08/05/2023","fulham","leicester city","MID",81,9.15,2,0,3,2,0.1,0.3,3,28,2,0,0,1,3,0
+"dominic solanke","Bournemouth","11/11/2023","bournemouth","newcastle united","FWD",90,9.15,2,0,4,2,1.1,0.1,3,9,0,2,0,3,4,3
+"pascal gross","Brighton & Hove Albion","18/02/2024","sheffield united","brighton  hove albion","DEF",90,9.15,0,1,3,0,0.7,0.8,8,128,15,1,0,0,1,0
+"solly march","Brighton & Hove Albion","26/12/2022","southampton","brighton  hove albion","MID",82,9.14,1,1,1,1,0,0.6,3,28,2,2,0,0,2,2
+"ilkay gundogan","Manchester City","14/05/2023","everton","manchester city","DEF",77,9.14,2,1,2,2,0.3,0.4,2,31,3,0,0,0,2,0
+"joao palhinha","Fulham","29/10/2023","brighton  hove albion","fulham","DEF",90,9.14,1,0,1,1,0.1,0,1,24,2,5,5,3,11,1
+"andreas pereira","Fulham","06/12/2023","fulham","nottingham forest","MID",90,9.14,0,2,2,0,0.1,0.5,4,62,11,2,0,0,5,0
+"martin odegaard","Arsenal","17/02/2024","burnley","arsenal","MID",90,9.13,1,1,2,2,0.2,0.4,3,62,15,1,0,1,4,1
+"harvey elliott","Liverpool","21/02/2024","liverpool","luton town","FWD",90,9.13,1,0,5,2,0.3,0.4,7,42,5,0,1,1,1,0
+"cody gakpo","Liverpool","05/03/2023","liverpool","manchester united","FWD",78,9.12,2,0,3,2,0.3,0.1,1,15,1,1,0,0,2,3
+"raul jimenez","Fulham","06/12/2023","fulham","nottingham forest","FWD",78,9.12,2,0,6,3,1.5,0,0,19,1,1,0,1,2,4
+"ross barkley","Luton Town","03/02/2024","newcastle united","luton town","MID",90,9.12,1,1,2,1,0.7,0.4,4,53,8,1,2,5,6,2
+"harvey elliott","Liverpool","05/05/2024","liverpool","tottenham hotspur","MID",82,9.12,1,1,4,3,0.3,0.7,5,50,10,1,0,0,7,0
+"harry wilson","Fulham","19/05/2024","luton town","fulham","MID",90,9.12,1,2,3,1,0.2,0.1,3,30,4,0,0,1,4,2
+"bernd leno","Fulham","12/08/2023","everton","fulham","GK",90,9.11,0,0,0,0,0,0,0,47,0,0,0,0,2,1
+"kieran trippier","Newcastle United","02/12/2023","newcastle united","manchester united","DEF",90,9.1,0,1,2,0,0.1,0.8,6,66,11,2,4,5,8,0
+"raheem sterling","Chelsea","13/05/2023","chelsea","nottingham forest","FWD",90,9.08,2,0,5,2,0.6,0,1,29,2,2,1,1,4,1
+"cole palmer","Chelsea","05/05/2024","chelsea","west ham united","MID",88,9.08,1,0,4,2,0.4,0.6,4,54,11,0,0,0,4,0
+"bernardo silva","Manchester City","04/11/2023","manchester city","bournemouth","MID",84,9.07,2,0,4,2,0.5,0.1,3,62,8,0,1,0,3,0
+"fabian schar","Newcastle United","30/01/2024","aston villa","newcastle united","DEF",90,9.06,2,0,3,2,1,0,0,34,2,0,1,7,2,2
+"gabriel jesus","Arsenal","30/10/2022","arsenal","nottingham forest","FWD",90,9.05,0,2,7,3,0.7,0.6,4,36,2,3,1,0,5,2
+"erling haaland","Manchester City","22/01/2023","manchester city","wolverhampton wanderers","FWD",60,9.05,3,0,3,3,1.4,0,0,6,1,0,0,0,1,1
+"marcus tavernier","Bournemouth","25/11/2023","sheffield united","bournemouth","MID",81,9.05,2,0,6,5,1.2,0.2,3,33,5,1,0,1,4,0
+"bruno guimaraes","Newcastle United","19/05/2024","brentford","newcastle united","MID",90,9.05,1,2,1,1,0.7,0.4,4,59,10,1,1,0,9,0
+"curtis jones","Liverpool","15/05/2023","leicester city","liverpool","MID",83,9.03,2,0,3,2,0.5,0.2,2,60,5,3,0,0,5,0
+"erling haaland","Manchester City","27/08/2022","manchester city","crystal palace","FWD",83,9.02,3,0,7,3,1.4,0,0,6,0,0,0,0,1,1
+"rodri","Manchester City","11/08/2023","burnley","manchester city","DEF",90,9.01,1,1,4,3,0.5,0.2,1,107,4,3,0,0,8,1
+"fabian schar","Newcastle United","13/04/2024","newcastle united","tottenham hotspur","DEF",89,9.01,1,0,1,1,0.1,0.1,1,14,1,1,4,5,3,2
+"bryan mbeumo","Brentford","20/05/2023","tottenham hotspur","brentford","FWD",90,9,2,1,6,3,0.4,0.5,1,16,3,0,0,2,5,1
+"phil foden","Manchester City","25/02/2023","bournemouth","manchester city","MID",90,8.98,1,1,2,1,0.5,1.1,7,58,4,1,0,0,4,1
+"harry kane","Tottenham Hotspur","28/05/2023","leeds united","tottenham hotspur","FWD",90,8.98,2,0,3,3,1,0,1,29,6,0,0,3,5,2
+"zeki amdouni","Burnley","02/12/2023","burnley","sheffield united","FWD",76,8.97,1,1,2,2,0.3,0.1,2,19,4,1,0,0,3,0
+"manor solomon","Tottenham Hotspur","02/09/2023","burnley","tottenham hotspur","MID",67,8.96,0,2,2,0,0.1,0.3,5,20,0,2,1,0,2,0
+"eberechi eze","Crystal Palace","30/01/2024","crystal palace","sheffield united","MID",76,8.96,2,0,4,3,0.8,0.4,2,30,4,1,0,0,3,0
+"phil foden","Manchester City","25/04/2024","brighton  hove albion","manchester city","MID",70,8.96,2,0,3,2,0.3,0.2,3,45,3,1,0,1,3,0
+"reiss nelson","Arsenal","30/10/2022","arsenal","nottingham forest","MID",64,8.95,2,1,3,3,0.6,0.2,2,35,1,0,0,0,5,0
+"kelechi iheanacho","Leicester City","11/02/2023","leicester city","tottenham hotspur","FWD",76,8.94,1,1,4,2,0.5,0.2,1,15,1,1,0,0,3,2
+"solly march","Brighton & Hove Albion","11/02/2023","crystal palace","brighton  hove albion","MID",90,8.94,1,0,4,2,0.3,0.9,4,47,8,3,0,0,6,0
+"jarrod bowen","West Ham United","25/02/2023","west ham united","nottingham forest","FWD",90,8.94,0,1,6,0,0.3,0.5,2,20,4,0,3,1,6,3
+"jack harrison","Leeds United","21/08/2022","leeds united","chelsea","MID",82,8.93,1,1,2,2,0.5,0.1,1,15,0,1,2,1,5,0
+"douglas luiz","Aston Villa","18/03/2023","aston villa","bournemouth","DEF",90,8.93,1,0,3,2,0.9,0.3,2,41,8,0,2,0,7,0
+"alexander isak","Newcastle United","23/04/2023","newcastle united","tottenham hotspur","FWD",65,8.93,2,0,4,2,0.7,0,0,14,2,0,0,0,2,0
+"pascal gross","Brighton & Hove Albion","29/04/2023","brighton  hove albion","wolverhampton wanderers","DEF",90,8.93,2,0,3,2,0.6,0.2,0,50,3,1,1,1,7,0
+"john mcginn","Aston Villa","12/11/2023","aston villa","fulham","MID",90,8.93,1,0,1,1,0.1,0.1,1,22,6,1,1,0,6,0
+"joao pedro","Brighton & Hove Albion","25/11/2023","nottingham forest","brighton  hove albion","MID",70,8.93,2,0,1,1,0.8,0,0,14,4,2,0,6,3,4
+"bryan mbeumo","Brentford","20/04/2024","luton town","brentford","FWD",90,8.93,0,2,3,1,0.2,0.8,3,25,4,0,0,0,7,0
+"jeanphilippe mateta","Crystal Palace","24/04/2024","crystal palace","newcastle united","FWD",90,8.93,2,0,4,3,0.4,0,1,14,3,2,0,0,3,5
+"raul jimenez","Fulham","19/05/2024","luton town","fulham","FWD",89,8.93,2,0,3,2,0.3,0.1,1,30,5,0,1,1,0,0
+"luis diaz","Liverpool","15/08/2022","liverpool","crystal palace","FWD",90,8.92,1,0,3,2,0.2,0,1,35,2,5,1,0,3,0
+"cody gakpo","Liverpool","17/04/2023","leeds united","liverpool","FWD",80,8.92,1,1,2,1,0.8,0.2,3,20,3,0,1,0,1,1
+"alejandro garnacho","Manchester United","04/02/2024","manchester united","west ham united","MID",90,8.92,2,0,2,2,0.2,0.1,3,23,4,1,0,1,1,0
+"james wardprowse","Southampton","14/01/2023","everton","southampton","MID",90,8.91,2,0,5,4,0.7,0.2,3,29,5,0,0,1,3,3
+"emiliano martinez","Aston Villa","01/04/2023","chelsea","aston villa","GK",90,8.91,0,0,0,0,0,0,0,28,0,0,0,0,0,1
+"son heungmin","Tottenham Hotspur","23/10/2023","tottenham hotspur","fulham","FWD",81,8.91,1,1,3,2,0.3,0.2,4,20,3,1,0,0,5,0
+"gabriel jesus","Arsenal","05/12/2023","luton town","arsenal","FWD",90,8.91,1,1,3,3,0.6,0.4,5,31,2,0,1,0,2,1
+"rodrigo bentancur","Tottenham Hotspur","17/09/2022","tottenham hotspur","leicester city","MID",90,8.9,1,1,2,2,0.4,0,2,40,5,2,4,0,11,0
+"gabriel jesus","Arsenal","01/04/2023","arsenal","leeds united","FWD",59,8.9,2,0,3,1,1.9,0,1,27,0,1,0,0,4,0
+"jacob murphy","Newcastle United","23/04/2023","newcastle united","tottenham hotspur","FWD",65,8.9,2,0,3,2,0.4,0.1,1,15,5,0,1,0,4,0
+"joachim andersen","Crystal Palace","26/08/2023","brentford","crystal palace","DEF",90,8.9,1,0,1,1,0.1,0.1,4,40,9,3,1,7,4,7
+"simon adingra","Brighton & Hove Albion","18/02/2024","sheffield united","brighton  hove albion","MID",90,8.9,2,0,6,3,0.5,0,0,25,1,0,0,1,5,0
+"ben brereton","Sheffield United","30/03/2024","sheffield united","fulham","FWD",90,8.9,2,1,2,2,1,0.5,1,6,1,0,0,1,4,0
+"james maddison","Tottenham Hotspur","02/09/2023","burnley","tottenham hotspur","MID",85,8.89,1,0,5,5,0.4,0.2,1,45,11,0,1,0,2,0
+"vinicius souza","Sheffield United","10/02/2024","luton town","sheffield united","MID",90,8.89,1,0,2,1,0.2,0,1,16,0,4,0,7,8,7
+"harry wilson","Fulham","02/03/2024","fulham","brighton  hove albion","MID",83,8.89,1,1,4,1,0.4,0.1,2,14,2,1,2,1,6,0
+"michael olise","Crystal Palace","21/04/2024","crystal palace","west ham united","MID",67,8.89,1,1,4,2,0.3,0.4,2,49,7,0,1,0,3,2
+"lucas paqueta","West Ham United","17/12/2023","west ham united","wolverhampton wanderers","MID",85,8.88,0,3,2,0,0.1,0,6,40,9,2,0,0,13,2
+"jeanphilippe mateta","Crystal Palace","21/04/2024","crystal palace","west ham united","FWD",67,8.88,2,0,3,3,0.8,0,2,16,1,0,0,0,4,0
+"callum hudsonodoi","Nottingham Forest","04/05/2024","sheffield united","nottingham forest","MID",89,8.88,1,0,1,1,0,0,1,6,0,0,0,0,3,0
+"bruno guimaraes","Newcastle United","08/10/2022","newcastle united","brentford","MID",77,8.87,2,0,2,2,0.1,0.1,2,44,4,1,0,1,7,0
+"leandro trossard","Arsenal","28/05/2023","arsenal","wolverhampton wanderers","FWD",79,8.87,0,2,2,1,0.1,0.3,2,26,5,1,1,3,4,1
+"noni madueke","Chelsea","30/12/2023","luton town","chelsea","MID",80,8.87,1,0,2,1,0.1,0.1,3,21,5,3,1,1,5,0
+"cody gakpo","Liverpool","05/05/2024","liverpool","tottenham hotspur","FWD",90,8.87,1,1,2,2,0.1,0.5,2,21,6,1,0,0,3,1
+"ivan toney","Brentford","12/11/2022","manchester city","brentford","FWD",90,8.86,2,0,6,5,1,0.1,1,16,2,0,0,2,4,7
+"dan burn","Newcastle United","24/09/2023","sheffield united","newcastle united","DEF",90,8.86,1,0,2,1,0.4,0,0,53,5,2,1,4,6,2
+"alexander isak","Newcastle United","27/04/2024","newcastle united","sheffield united","FWD",90,8.86,2,0,4,2,1.2,0.1,2,15,2,0,0,0,2,0
+"morgan gibbswhite","Nottingham Forest","25/11/2023","nottingham forest","brighton  hove albion","MID",90,8.85,1,1,6,0,1.1,0.4,4,32,6,1,1,2,5,4
+"richarlison","Tottenham Hotspur","10/12/2023","tottenham hotspur","newcastle united","FWD",72,8.85,2,0,6,3,0.7,0,0,13,1,1,1,1,3,0
+"ollie watkins","Aston Villa","02/03/2024","luton town","aston villa","FWD",90,8.85,2,0,5,4,0.6,0,0,19,3,0,0,1,1,2
+"jeffrey schlupp","Crystal Palace","09/04/2023","leeds united","crystal palace","MID",79,8.84,0,1,2,0,0.8,0.1,2,10,2,2,0,3,6,0
+"leandro trossard","Arsenal","11/02/2024","west ham united","arsenal","FWD",66,8.84,1,0,5,2,0.7,0.3,0,27,9,2,0,0,2,1
+"kepa arrizabalaga","Chelsea","16/10/2022","aston villa","chelsea","GK",90,8.83,0,0,0,0,0,0,0,33,0,0,0,1,1,2
+"alexander isak","Newcastle United","13/04/2024","newcastle united","tottenham hotspur","FWD",90,8.83,2,0,6,2,1.5,0,1,6,1,0,0,0,2,2
+"declan rice","Arsenal","04/05/2024","arsenal","bournemouth","MID",90,8.83,1,1,3,1,0.3,0.2,3,44,6,0,2,0,7,0
+"callum wilson","Newcastle United","29/10/2022","newcastle united","aston villa","FWD",85,8.82,2,1,4,2,1.9,0.1,2,14,2,0,0,0,2,1
+"solly march","Brighton & Hove Albion","03/01/2023","everton","brighton  hove albion","MID",78,8.82,1,0,4,2,0.3,0.1,1,27,3,2,1,0,7,1
+"ruben neves","Wolverhampton Wanderers","04/02/2023","wolverhampton wanderers","liverpool","MID",90,8.82,1,0,1,1,0.6,0.1,1,43,6,2,0,7,5,3
+"cole palmer","Chelsea","30/12/2023","luton town","chelsea","MID",89,8.82,2,1,5,3,1.1,0,2,21,3,0,0,1,3,0
+"neco williams","Nottingham Forest","14/08/2022","nottingham forest","west ham united","DEF",90,8.81,0,0,4,2,0.3,0.3,2,26,3,3,1,6,6,0
+"jacob ramsey","Aston Villa","15/04/2023","aston villa","newcastle united","MID",84,8.81,1,1,4,1,0.5,0.2,4,26,4,0,1,0,4,1
+"kaoru mitoma","Brighton & Hove Albion","19/08/2023","wolverhampton wanderers","brighton  hove albion","MID",80,8.81,1,1,1,1,0.5,0.7,4,25,3,1,1,1,5,0
+"alexander isak","Newcastle United","08/10/2023","west ham united","newcastle united","FWD",85,8.81,2,0,3,2,1.6,0,0,17,0,0,0,0,1,1
+"douglas luiz","Aston Villa","22/10/2023","aston villa","west ham united","MID",90,8.81,2,0,2,2,0.9,0.1,3,66,3,1,0,2,9,0
+"trent alexanderarnold","Liverpool","06/12/2023","sheffield united","liverpool","DEF",90,8.81,0,1,1,0,0,0.4,7,73,9,1,2,1,8,2
+"dejan kulusevski","Tottenham Hotspur","15/12/2023","nottingham forest","tottenham hotspur","MID",89,8.81,1,1,3,2,0.2,0.7,3,29,3,1,0,1,6,0
+"trent alexanderarnold","Liverpool","17/12/2023","liverpool","manchester united","DEF",90,8.81,0,0,4,0,0.2,0.4,6,80,15,2,2,2,8,1
+"gabriel martinelli","Arsenal","04/03/2024","sheffield united","arsenal","FWD",63,8.81,1,1,4,1,0.6,0.1,2,32,0,0,0,1,2,1
+"aleksandar mitrovic","Fulham","30/08/2022","fulham","brighton  hove albion","FWD",90,8.8,1,0,3,2,0.4,0.1,2,11,3,2,0,0,4,7
+"marcus rashford","Manchester United","04/09/2022","manchester united","arsenal","FWD",79,8.8,2,1,2,2,0.5,0.1,2,13,3,0,0,0,1,1
+"vicente guaita","Crystal Palace","15/10/2022","leicester city","crystal palace","GK",90,8.8,0,0,0,0,0,0,0,35,0,0,0,0,2,2
+"alisson","Liverpool","16/10/2022","liverpool","manchester city","GK",90,8.8,0,1,0,0,0,0,1,37,0,0,0,0,2,0
+"raheem sterling","Chelsea","25/08/2023","chelsea","luton town","MID",89,8.8,2,0,5,3,0.9,0.2,2,32,3,0,0,0,5,0
+"oleksandr zinchenko","Arsenal","11/11/2023","arsenal","burnley","DEF",90,8.8,1,0,1,1,0,0.2,1,88,21,3,0,1,4,7
+"jeremy doku","Manchester City","25/11/2023","manchester city","liverpool","MID",90,8.8,0,0,2,0,0.1,0.7,4,43,5,3,0,1,6,0
+"jordan pickford","Everton","03/09/2022","everton","liverpool","GK",90,8.79,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+"harry kane","Tottenham Hotspur","17/09/2022","tottenham hotspur","leicester city","FWD",90,8.79,1,1,2,1,0.5,0,3,21,5,0,0,0,2,2
+"declan rice","Arsenal","04/03/2024","sheffield united","arsenal","MID",73,8.79,1,0,5,3,0.4,0.3,2,42,4,2,0,1,1,0
+"dominik szoboszlai","Liverpool","29/10/2023","liverpool","nottingham forest","MID",90,8.78,0,2,1,1,0.1,0.7,4,81,11,0,1,0,12,0
+"josh brownhill","Burnley","02/12/2023","burnley","sheffield united","MID",90,8.78,1,0,2,2,0.1,0,0,53,8,1,1,1,3,3
+"martin dubravka","Newcastle United","01/01/2024","liverpool","newcastle united","GK",90,8.78,0,0,0,0,0,0,0,10,0,0,0,1,0,0
+"conor gallagher","Chelsea","12/02/2024","crystal palace","chelsea","MID",90,8.78,2,0,3,2,0.3,0.1,3,43,3,0,2,0,3,0
+"leon bailey","Aston Villa","23/10/2022","aston villa","brentford","MID",70,8.77,1,1,2,1,0.2,0.5,2,14,0,0,0,0,2,0
+"marcus rashford","Manchester United","19/02/2023","manchester united","leicester city","FWD",68,8.77,2,0,5,3,1.1,0,0,8,1,1,0,0,2,0
+"jacob ramsey","Aston Villa","01/04/2023","chelsea","aston villa","MID",90,8.77,0,1,0,0,0,0,1,19,2,4,2,2,8,1
+"scott mctominay","Manchester United","08/04/2023","manchester united","everton","DEF",90,8.77,1,0,2,1,0.3,0.4,3,37,3,1,1,2,6,4
+"carlos alcaraz","Southampton","21/04/2023","arsenal","southampton","FWD",45,8.77,1,1,2,2,0.2,0.3,1,7,1,0,0,0,4,0
+"ruben neves","Wolverhampton Wanderers","25/04/2023","wolverhampton wanderers","crystal palace","MID",90,8.77,1,0,1,1,0.8,0.1,2,39,4,2,4,2,9,2
+"abdoulaye doucoure","Everton","08/05/2023","brighton  hove albion","everton","MID",90,8.77,2,0,2,2,0.5,0.1,2,19,0,1,1,2,5,0
+"martin odegaard","Arsenal","04/03/2024","sheffield united","arsenal","MID",90,8.77,1,0,4,1,0.7,0.2,4,85,13,0,0,0,4,0
+"kai havertz","Arsenal","06/04/2024","brighton  hove albion","arsenal","FWD",88,8.77,1,1,2,1,0.7,0.5,4,19,0,1,0,1,3,2
+"dean henderson","Nottingham Forest","18/10/2022","brighton  hove albion","nottingham forest","GK",90,8.76,0,0,0,0,0,0,0,35,0,0,0,0,0,0
+"declan rice","West Ham United","25/02/2023","west ham united","nottingham forest","DEF",90,8.76,1,0,1,1,0,0.1,4,60,8,0,0,2,11,3
+"jack grealish","Manchester City","01/04/2023","manchester city","liverpool","MID",88,8.76,1,1,3,3,0.5,0.6,1,56,5,0,0,0,3,0
+"martin odegaard","Arsenal","02/05/2023","arsenal","chelsea","MID",90,8.76,2,0,3,3,0.4,0.1,2,42,9,0,1,2,5,0
+"bryan mbeumo","Brentford","14/05/2023","brentford","west ham united","FWD",90,8.76,1,0,6,3,0.9,0.1,2,35,4,2,1,1,6,0
+"lucas paqueta","West Ham United","21/05/2023","west ham united","leeds united","MID",90,8.76,0,1,4,2,0.3,0.7,3,60,10,4,1,0,5,4
+"martin odegaard","Arsenal","27/08/2022","arsenal","fulham","MID",89,8.75,1,0,3,2,0.2,0.5,2,61,17,2,0,1,11,0
+"illan meslier","Leeds United","29/10/2022","liverpool","leeds united","GK",90,8.75,0,0,0,0,0,0,0,4,0,0,0,1,0,0
+"matty cash","Aston Villa","27/08/2023","burnley","aston villa","DEF",90,8.75,2,0,6,3,1.3,0,0,28,2,3,0,2,5,1
+"pascal gross","Brighton & Hove Albion","03/02/2024","brighton  hove albion","crystal palace","MID",90,8.75,0,2,3,0,0.1,0.3,3,119,4,3,0,0,5,0
+"cody gakpo","Liverpool","21/02/2024","liverpool","luton town","FWD",90,8.75,1,0,8,4,0.8,0,1,15,2,2,0,1,6,5
+"brennan johnson","Nottingham Forest","14/01/2023","nottingham forest","leicester city","FWD",85,8.74,2,0,2,2,1.2,0,1,6,1,1,0,0,3,1
+"eberechi eze","Crystal Palace","13/05/2023","crystal palace","bournemouth","MID",90,8.74,2,0,3,3,0.7,0.1,1,44,9,0,2,0,7,1
+"willian","Fulham","07/10/2023","fulham","sheffield united","FWD",90,8.74,1,0,5,3,0.6,0.2,3,41,9,0,1,0,6,3
+"craig dawson","Wolverhampton Wanderers","30/12/2023","wolverhampton wanderers","everton","DEF",90,8.74,1,0,1,1,0.3,0,0,48,1,3,3,7,5,3
+"fred","Manchester United","19/10/2022","manchester united","tottenham hotspur","DEF",90,8.73,1,0,6,2,0.3,0.3,3,43,7,1,2,2,7,0
+"bukayo saka","Arsenal","02/12/2023","arsenal","wolverhampton wanderers","FWD",89,8.73,1,0,3,2,0.3,0.7,4,46,3,1,1,1,2,1
+"james trafford","Burnley","09/12/2023","brighton  hove albion","burnley","GK",90,8.73,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+"leon bailey","Aston Villa","03/02/2024","sheffield united","aston villa","MID",59,8.73,1,0,2,1,0.1,0.2,2,20,2,1,1,0,4,0
+"eberechi eze","Crystal Palace","21/04/2024","crystal palace","west ham united","MID",80,8.73,1,1,7,2,0.8,0.2,2,38,7,0,1,0,5,0
+"casemiro","Manchester United","19/05/2024","brighton  hove albion","manchester united","DEF",90,8.73,0,0,0,0,0,0.2,1,52,5,4,1,5,3,0
+"david raya","Brentford","14/10/2022","brentford","brighton  hove albion","GK",90,8.72,0,0,0,0,0,0,0,21,0,0,0,0,0,1
+"martin odegaard","Arsenal","30/09/2023","bournemouth","arsenal","MID",90,8.72,1,1,0,0,0.8,0.4,3,49,4,0,0,0,5,0
+"ryan christie","Bournemouth","03/12/2023","bournemouth","aston villa","DEF",90,8.72,0,1,3,1,0.2,0.8,3,31,9,6,2,3,9,0
+"lorenz assignon","Burnley","20/04/2024","sheffield united","burnley","DEF",90,8.71,1,1,2,2,0.2,0.3,2,32,7,0,1,6,7,1
+"noni madueke","Chelsea","27/04/2024","aston villa","chelsea","MID",90,8.71,1,1,4,1,0.2,0.2,2,47,5,0,1,0,5,2
+"dean henderson","Nottingham Forest","14/08/2022","nottingham forest","west ham united","GK",90,8.7,0,0,0,0,0,0,0,19,0,0,0,1,1,0
+"morgan gibbswhite","Nottingham Forest","14/01/2023","nottingham forest","leicester city","FWD",90,8.7,0,2,3,2,0.3,0.2,4,21,6,0,1,1,2,2
+"chris wood","Nottingham Forest","21/10/2023","nottingham forest","luton town","FWD",90,8.7,2,0,7,4,1.7,0,1,16,2,0,0,2,3,8
+"cole palmer","Chelsea","06/11/2023","tottenham hotspur","chelsea","MID",90,8.7,1,1,1,0,0.8,0.4,1,42,6,1,2,0,3,0
+"ross barkley","Luton Town","30/01/2024","luton town","brighton  hove albion","MID",81,8.7,0,1,1,0,0,0.3,5,29,4,1,1,2,6,1
+"joelinton","Newcastle United","06/08/2022","newcastle united","nottingham forest","MID",90,8.69,0,1,3,2,0.2,0.2,3,50,11,1,2,0,5,1
+"marcus tavernier","Bournemouth","05/11/2022","leeds united","bournemouth","MID",90,8.69,1,2,2,2,0.2,0.2,2,20,2,2,0,3,9,1
+"jack grealish","Manchester City","08/04/2023","southampton","manchester city","MID",90,8.69,1,1,3,3,0.5,0.4,2,46,6,1,1,0,2,1
+"james maddison","Leicester City","08/05/2023","fulham","leicester city","MID",90,8.69,1,1,5,1,1.5,0.2,5,22,6,1,0,0,1,0
+"ethan pinnock","Brentford","28/05/2023","brentford","manchester city","DEF",90,8.69,1,0,3,2,0.4,0.1,0,37,3,2,0,6,4,1
+"oliver mcburnie","Sheffield United","30/03/2024","sheffield united","fulham","FWD",89,8.69,1,1,1,1,0.7,0.4,2,12,4,1,0,2,3,8
+"fabian schar","Newcastle United","06/08/2022","newcastle united","nottingham forest","DEF",90,8.68,1,0,2,1,0.1,0.1,1,38,3,0,3,4,8,4
+"miguel almiron","Newcastle United","01/10/2022","fulham","newcastle united","FWD",90,8.68,2,0,4,2,1,0,0,40,6,1,0,0,3,0
+"callum wilson","Newcastle United","30/04/2023","newcastle united","southampton","FWD",45,8.68,2,0,6,3,2.3,0,0,1,0,0,0,0,0,1
+"bruno fernandes","Manchester United","13/05/2023","manchester united","wolverhampton wanderers","MID",90,8.68,0,1,7,2,0.4,0.6,5,37,11,0,1,1,4,0
+"joachim andersen","Crystal Palace","30/09/2023","manchester united","crystal palace","DEF",90,8.68,1,0,3,1,0.4,0.1,1,16,2,1,1,10,6,2
+"anthony elanga","Nottingham Forest","26/12/2023","newcastle united","nottingham forest","MID",89,8.68,0,2,5,2,0.7,0.6,3,15,1,1,2,2,5,0
+"phil foden","Manchester City","27/12/2023","everton","manchester city","MID",90,8.68,1,0,7,2,0.4,0,3,48,0,0,0,0,3,1
+"erling haaland","Manchester City","10/02/2024","manchester city","everton","FWD",90,8.68,2,0,4,2,0.7,0.1,2,12,1,0,0,0,0,1
+"morgan gibbswhite","Nottingham Forest","05/11/2022","nottingham forest","brentford","MID",90,8.67,1,0,7,2,0.5,0.3,3,28,3,0,0,1,3,2
+"danny ings","Aston Villa","13/11/2022","brighton  hove albion","aston villa","FWD",82,8.67,2,0,2,1,1.1,0.1,1,13,0,3,0,2,2,3
+"alexis mac allister","Brighton & Hove Albion","04/03/2023","brighton  hove albion","west ham united","MID",90,8.67,1,1,2,0,1.1,0.4,3,55,10,2,0,0,7,1
+"virgil van dijk","Liverpool","24/09/2023","liverpool","west ham united","DEF",90,8.67,0,1,3,0,0.3,0.1,2,78,7,1,3,5,3,12
+"rodri","Manchester City","03/04/2024","manchester city","aston villa","DEF",74,8.67,1,1,3,2,0.3,0.2,1,90,21,0,0,1,10,1
+"bruno guimaraes","Newcastle United","04/05/2024","burnley","newcastle united","MID",90,8.67,1,0,1,1,0.1,0,0,16,2,0,1,0,8,0
+"allan saintmaximin","Newcastle United","21/08/2022","newcastle united","manchester city","FWD",90,8.66,0,2,3,1,0.2,0.7,4,15,7,0,0,0,7,0
+"casemiro","Manchester United","20/05/2023","bournemouth","manchester united","DEF",90,8.66,1,0,4,2,0.5,0.1,3,59,14,2,2,2,12,4
+"erling haaland","Manchester City","29/10/2023","manchester united","manchester city","FWD",90,8.66,2,1,4,3,2,0.5,1,7,1,0,0,0,1,1
+"ross barkley","Luton Town","05/12/2023","luton town","arsenal","MID",90,8.66,1,0,1,1,0.1,0,1,27,6,0,1,2,11,5
+"lewis cook","Bournemouth","09/12/2023","manchester united","bournemouth","DEF",87,8.66,0,1,0,0,0,0.2,3,27,5,2,6,3,16,0
+"anthony gordon","Newcastle United","27/04/2024","newcastle united","sheffield united","FWD",81,8.66,0,1,0,0,0,0.3,3,33,3,1,0,0,7,1
+"ivan toney","Brentford","11/02/2023","arsenal","brentford","FWD",89,8.65,1,0,4,2,1.3,0.2,1,18,5,1,0,1,4,12
+"cody gakpo","Liverpool","21/04/2024","fulham","liverpool","FWD",85,8.65,0,1,4,3,0.1,0.1,2,32,6,1,3,0,10,0
+"alexander isak","Newcastle United","19/05/2024","brentford","newcastle united","FWD",80,8.65,1,1,4,3,0.9,0.5,2,17,1,0,1,1,2,1
+"diogo dalot","Manchester United","27/08/2022","southampton","manchester united","DEF",90,8.64,0,1,0,0,0,0.3,2,36,4,2,2,4,6,1
+"mason mount","Chelsea","16/10/2022","aston villa","chelsea","MID",90,8.64,2,0,3,2,0.4,0,0,25,2,0,0,1,6,0
+"wilfried zaha","Crystal Palace","18/10/2022","crystal palace","wolverhampton wanderers","FWD",90,8.64,1,0,4,2,0.5,0.2,1,25,7,2,2,1,7,1
+"brennan johnson","Nottingham Forest","05/03/2023","nottingham forest","everton","MID",90,8.64,2,0,4,2,0.6,0,0,14,1,1,0,0,2,0
+"john mcginn","Aston Villa","01/04/2023","chelsea","aston villa","MID",90,8.64,1,0,2,1,0.1,0.2,1,13,4,0,0,0,4,1
+"deniz undav","Brighton & Hove Albion","29/04/2023","brighton  hove albion","wolverhampton wanderers","FWD",79,8.64,2,0,3,2,0.8,0.1,0,12,1,1,0,0,5,0
+"andre onana","Manchester United","26/11/2023","everton","manchester united","GK",90,8.64,0,0,0,0,0,0,0,40,0,0,0,0,0,2
+"michael olise","Crystal Palace","30/01/2024","crystal palace","sheffield united","FWD",68,8.64,1,2,4,1,0.2,0.5,2,25,4,0,1,1,7,0
+"conor gallagher","Chelsea","15/04/2024","chelsea","everton","DEF",90,8.64,0,0,0,0,0,0,2,65,2,1,2,4,10,3
+"martin odegaard","Arsenal","12/11/2022","wolverhampton wanderers","arsenal","MID",90,8.63,2,0,3,2,1.5,0,0,44,3,0,0,0,7,0
+"dwight mcneil","Everton","11/03/2023","everton","brentford","MID",90,8.63,1,0,2,1,0.1,0.1,1,16,3,1,1,4,6,1
+"erling haaland","Manchester City","11/08/2023","burnley","manchester city","FWD",79,8.63,2,0,4,2,0.6,0.1,2,9,1,0,0,1,3,1
+"ibrahima konate","Liverpool","06/12/2023","sheffield united","liverpool","DEF",90,8.63,0,0,1,1,0.1,0,0,99,13,2,4,2,4,14
+"matheus cunha","Wolverhampton Wanderers","30/12/2023","wolverhampton wanderers","everton","FWD",79,8.63,1,1,3,1,0.9,0.2,2,35,7,0,1,0,3,1
+"gabriel jesus","Arsenal","30/01/2024","nottingham forest","arsenal","FWD",77,8.63,1,1,6,2,0.4,0.2,2,27,3,0,0,0,3,2
+"mark flekken","Brentford","05/02/2024","brentford","manchester city","GK",90,8.63,0,1,0,0,0,0,1,21,1,0,0,0,1,0
+"rasmus hojlund","Manchester United","18/02/2024","luton town","manchester united","FWD",85,8.63,2,0,3,3,1.1,0.1,2,28,4,1,0,1,3,4
+"arijanet muric","Burnley","30/03/2024","chelsea","burnley","GK",90,8.63,0,0,0,0,0,0,1,35,0,1,0,0,2,0
+"jack grealish","Manchester City","17/09/2022","wolverhampton wanderers","manchester city","FWD",76,8.62,1,0,2,1,0.4,0.1,2,31,4,0,1,0,8,1
+"eddie nketiah","Arsenal","22/01/2023","arsenal","manchester united","FWD",90,8.62,2,0,6,3,1.9,0,0,17,0,1,0,1,0,2
+"michael olise","Crystal Palace","28/05/2023","crystal palace","nottingham forest","MID",89,8.62,0,1,2,1,0.1,0.7,7,45,2,1,1,0,2,0
+"antonee robinson","Fulham","03/12/2023","liverpool","fulham","DEF",90,8.62,0,1,2,1,0.1,0.2,1,34,4,3,13,4,13,1
+"alex iwobi","Fulham","06/12/2023","fulham","nottingham forest","MID",75,8.62,2,0,3,2,0.6,0.1,1,37,7,1,3,0,3,0
+"bernd leno","Fulham","10/12/2023","fulham","west ham united","GK",90,8.62,0,0,0,0,0,0,0,46,0,0,0,0,2,2
+"andreas pereira","Fulham","14/04/2024","west ham united","fulham","MID",73,8.62,2,0,4,3,1.7,0.3,3,25,7,0,0,0,1,1
+"simon adingra","Brighton & Hove Albion","05/05/2024","brighton  hove albion","aston villa","MID",89,8.62,0,0,4,4,0.3,0.7,5,28,3,0,2,3,6,0
+"jarell quansah","Liverpool","19/05/2024","liverpool","wolverhampton wanderers","DEF",90,8.62,1,0,2,2,0.8,0,1,67,7,2,2,3,4,3
+"martin odegaard","Arsenal","20/08/2022","bournemouth","arsenal","MID",73,8.61,2,0,3,2,0.6,0.1,0,45,7,0,0,0,2,2
+"mathias jensen","Brentford","19/08/2023","fulham","brentford","MID",90,8.61,0,0,2,1,0.1,0.7,4,46,6,3,2,3,7,0
+"virgil van dijk","Liverpool","06/12/2023","sheffield united","liverpool","DEF",90,8.61,1,0,3,2,0.2,0,0,83,4,2,2,4,2,4
+"mateo kovacic","Manchester City","13/04/2024","manchester city","luton town","DEF",90,8.61,1,0,5,1,0.4,0.2,4,81,8,4,0,0,8,1
+"james tarkowski","Everton","24/04/2024","everton","liverpool","DEF",90,8.61,0,0,1,1,0,0.3,1,13,1,3,5,9,4,3
+"kieffer moore","Bournemouth","29/10/2022","bournemouth","tottenham hotspur","FWD",90,8.6,2,0,3,2,0.4,0,0,17,3,3,0,4,3,5
+"lucas paqueta","West Ham United","23/04/2023","bournemouth","west ham united","MID",76,8.6,1,0,2,1,0.2,0.2,2,39,7,3,1,1,5,2
+"cristian romero","Tottenham Hotspur","06/05/2023","tottenham hotspur","crystal palace","DEF",90,8.6,0,0,2,0,0.2,0.2,1,75,0,1,5,8,12,6
+"tom cairney","Fulham","08/05/2023","fulham","leicester city","MID",81,8.6,2,0,3,2,0.3,0,0,47,2,1,0,0,4,0
+"dwight mcneil","Everton","07/10/2023","everton","bournemouth","MID",90,8.6,0,0,2,1,0.2,0.9,6,21,2,1,0,0,7,0
+"dan burn","Newcastle United","16/12/2023","newcastle united","fulham","DEF",83,8.6,1,0,2,2,0.8,0,0,64,4,0,4,1,3,7
+"jordan pickford","Everton","24/04/2024","everton","liverpool","GK",90,8.6,0,0,0,0,0,0,0,10,0,0,0,0,1,0
+"dejan kulusevski","Tottenham Hotspur","06/08/2022","tottenham hotspur","southampton","MID",85,8.59,1,1,2,1,0.1,0.6,3,38,4,0,0,0,8,0
+"joao cancelo","Manchester City","17/09/2022","wolverhampton wanderers","manchester city","DEF",90,8.59,0,0,2,0,0.1,0.1,2,74,6,5,2,1,7,3
+"harry kane","Tottenham Hotspur","11/03/2023","tottenham hotspur","nottingham forest","FWD",90,8.59,2,0,3,2,1.1,0.1,0,19,3,0,0,0,2,2
+"luis sinisterra","Leeds United","04/04/2023","leeds united","nottingham forest","MID",73,8.59,1,0,4,2,0.1,0.3,2,28,9,0,2,0,4,2
+"james tarkowski","Everton","23/09/2023","brentford","everton","DEF",90,8.59,1,1,2,1,0.3,0.3,4,33,6,0,0,4,4,8
+"mario lemina","Wolverhampton Wanderers","24/12/2023","wolverhampton wanderers","chelsea","MID",90,8.59,1,0,3,2,0.1,0,0,27,4,5,4,3,9,1
+"danny ings","Aston Villa","23/10/2022","aston villa","brentford","FWD",90,8.58,2,0,1,1,1.2,0.1,3,15,6,0,1,2,0,1
+"james maddison","Leicester City","05/11/2022","everton","leicester city","MID",90,8.58,0,2,8,0,0.5,0.3,4,38,6,0,2,0,3,0
+"matt doherty","Tottenham Hotspur","04/01/2023","crystal palace","tottenham hotspur","DEF",77,8.58,1,0,4,1,0.3,0.1,2,38,3,3,1,1,2,1
+"kieran trippier","Newcastle United","21/01/2023","crystal palace","newcastle united","DEF",90,8.58,0,0,0,0,0,1.1,8,56,5,2,1,2,7,1
+"erling haaland","Manchester City","12/11/2023","chelsea","manchester city","FWD",90,8.58,2,1,3,2,2,0,3,10,1,0,0,0,2,1
+"josh cullen","Burnley","30/03/2024","chelsea","burnley","MID",90,8.58,1,1,2,2,0.1,0.3,3,35,3,0,1,1,4,2
+"martin odegaard","Arsenal","31/12/2022","brighton  hove albion","arsenal","MID",86,8.57,1,1,1,1,0.1,0.7,3,29,7,0,0,0,6,0
+"aaron ramsdale","Arsenal","15/01/2023","tottenham hotspur","arsenal","GK",90,8.57,0,0,0,0,0,0,0,12,0,0,0,1,0,0
+"joelinton","Newcastle United","05/04/2023","west ham united","newcastle united","MID",90,8.57,2,0,4,2,1.4,0,1,27,3,1,1,0,5,2
+"callum wilson","Newcastle United","27/04/2023","everton","newcastle united","FWD",86,8.57,2,0,4,3,0.5,0,0,9,0,1,0,0,2,0
+"michael olise","Crystal Palace","25/11/2023","luton town","crystal palace","MID",90,8.57,1,0,5,1,0.3,0.4,3,37,2,4,1,0,6,0
+"kai havertz","Arsenal","17/02/2024","burnley","arsenal","MID",83,8.57,1,0,2,1,0.8,0.1,1,23,1,1,0,2,4,8
+"darwin nunez","Liverpool","05/03/2023","liverpool","manchester united","FWD",78,8.56,2,0,4,2,0.9,0,0,8,1,0,0,0,1,0
+"curtis jones","Liverpool","17/04/2023","leeds united","liverpool","MID",90,8.56,0,1,1,0,0.1,0.4,2,53,5,2,0,1,4,0
+"cristian romero","Tottenham Hotspur","07/10/2023","luton town","tottenham hotspur","DEF",90,8.56,0,0,0,0,0,0,1,73,11,2,3,12,5,5
+"jack harrison","Everton","07/10/2023","everton","bournemouth","MID",77,8.56,1,1,4,1,0.3,0,1,16,1,1,0,0,11,1
+"mohamed salah","Liverpool","01/01/2024","liverpool","newcastle united","FWD",90,8.56,2,1,4,2,2.7,1.2,4,28,4,0,0,0,2,0
+"rodrigo muniz","Fulham","30/03/2024","sheffield united","fulham","FWD",90,8.56,1,0,7,3,0.6,0,2,13,2,0,0,4,2,4
+"kevin de bruyne","Manchester City","02/10/2022","manchester city","manchester united","MID",74,8.55,0,2,3,2,0.3,0.6,2,28,11,0,0,0,4,0
+"solly march","Brighton & Hove Albion","01/04/2023","brighton  hove albion","brentford","MID",90,8.55,0,1,8,4,0.9,0.6,3,41,3,0,0,1,2,1
+"dominic solanke","Bournemouth","15/04/2023","tottenham hotspur","bournemouth","FWD",90,8.55,1,2,1,1,0.2,0.3,2,17,3,0,0,0,2,2
+"oliver mcburnie","Sheffield United","26/12/2023","sheffield united","luton town","FWD",90,8.55,1,0,2,1,0.6,0.3,1,20,3,0,0,3,3,13
+"curtis jones","Liverpool","01/01/2024","liverpool","newcastle united","MID",90,8.55,1,0,5,2,1.4,0.1,2,50,5,2,0,0,10,0
+"pedro porro","Tottenham Hotspur","14/01/2024","manchester united","tottenham hotspur","DEF",90,8.55,0,1,1,1,0,0.5,5,55,7,2,3,3,6,1
+"morgan gibbswhite","Nottingham Forest","02/04/2024","nottingham forest","fulham","MID",76,8.55,1,1,3,1,0.5,0.2,4,29,3,0,0,0,3,1
+"kai havertz","Arsenal","04/05/2024","arsenal","bournemouth","FWD",90,8.55,0,0,2,2,0.3,0.2,2,26,0,3,1,0,5,4
+"hakim ziyech","Chelsea","15/01/2023","chelsea","crystal palace","MID",88,8.54,0,1,3,1,0.1,0.3,2,37,9,4,1,0,7,0
+"emerson","Tottenham Hotspur","23/12/2023","tottenham hotspur","everton","DEF",90,8.54,0,0,0,0,0,0.2,1,58,0,4,8,5,8,1
+"sergio reguilon","Brentford","20/04/2024","luton town","brentford","DEF",90,8.54,0,1,1,0,0,0.3,4,37,6,3,2,6,10,1
+"jacob murphy","Newcastle United","04/05/2024","burnley","newcastle united","MID",68,8.54,0,2,1,0,0,0.3,4,11,2,0,0,0,4,0
+"bukayo saka","Arsenal","22/01/2023","arsenal","manchester united","FWD",90,8.53,1,0,5,2,0.3,0.5,4,39,3,0,0,0,4,0
+"alexis mac allister","Liverpool","21/01/2024","bournemouth","liverpool","MID",90,8.53,0,0,1,0,0,0,4,64,6,3,3,1,15,2
+"alexis mac allister","Liverpool","04/04/2024","liverpool","sheffield united","MID",90,8.53,1,0,3,1,0.2,0.1,2,78,7,2,2,1,7,2
+"kai havertz","Arsenal","28/04/2024","tottenham hotspur","arsenal","FWD",90,8.53,1,1,1,1,0.4,0.3,2,20,3,0,0,4,3,8
+"bernardo silva","Manchester City","11/05/2024","fulham","manchester city","MID",90,8.53,0,2,3,2,0.2,0.6,4,65,5,0,0,2,5,1
+"amad diallo","Manchester United","15/05/2024","manchester united","newcastle united","MID",81,8.53,1,1,4,2,0.2,0.1,2,23,1,0,1,1,1,1
+"alexis mac allister","Brighton & Hove Albion","04/09/2022","brighton  hove albion","leicester city","MID",90,8.52,2,0,3,2,1,0,0,37,3,1,2,0,9,0
+"jordan pickford","Everton","29/10/2022","fulham","everton","GK",90,8.52,0,0,0,0,0,0,1,26,0,0,0,3,0,0
+"max kilman","Wolverhampton Wanderers","04/02/2023","wolverhampton wanderers","liverpool","DEF",90,8.52,0,0,1,0,0.2,0,1,41,3,0,0,6,6,2
+"kaoru mitoma","Brighton & Hove Albion","04/03/2023","brighton  hove albion","west ham united","MID",82,8.52,1,0,1,1,0.8,0.1,2,39,7,1,0,0,6,0
+"mohamed salah","Liverpool","17/04/2023","leeds united","liverpool","FWD",80,8.52,2,0,3,2,0.7,0.1,0,42,3,0,0,0,3,0
+"marcus tavernier","Bournemouth","27/04/2023","southampton","bournemouth","DEF",77,8.52,1,0,3,1,0.3,0.1,2,30,8,1,0,0,7,0
+"jarrod bowen","West Ham United","21/05/2023","west ham united","leeds united","MID",83,8.52,1,1,2,2,0.4,0.6,4,24,2,1,1,0,5,0
+"jeremy doku","Manchester City","16/09/2023","west ham united","manchester city","MID",89,8.52,1,0,3,2,0.1,0.6,3,30,4,2,0,0,6,1
+"amadou onana","Everton","16/12/2023","burnley","everton","MID",90,8.52,1,0,1,1,0.3,0,0,27,1,2,0,4,4,6
+"ollie watkins","Aston Villa","17/02/2024","fulham","aston villa","FWD",90,8.52,2,0,5,2,0.9,0,1,10,1,1,0,3,4,2
+"tomas soucek","West Ham United","02/03/2024","everton","west ham united","DEF",90,8.52,1,0,1,1,0,0,0,19,3,0,1,6,2,0
+"martin dubravka","Newcastle United","06/04/2024","fulham","newcastle united","GK",90,8.52,0,0,0,0,0,0,0,22,0,0,0,1,1,0
+"gabriel martinelli","Arsenal","13/08/2022","arsenal","leicester city","FWD",90,8.51,1,0,1,1,0.1,0.3,4,24,2,0,1,0,3,0
+"raheem sterling","Chelsea","27/08/2022","chelsea","leicester city","FWD",74,8.51,2,0,3,3,1.2,0.2,1,15,0,0,0,0,2,0
+"mason mount","Chelsea","08/10/2022","chelsea","wolverhampton wanderers","MID",71,8.51,0,2,3,0,0.1,0.4,5,35,7,0,0,0,4,1
+"ivan toney","Brentford","15/03/2023","southampton","brentford","FWD",90,8.51,1,1,1,1,0.9,0.1,1,16,3,1,0,1,7,5
+"caglar soyuncu","Leicester City","01/05/2023","leicester city","everton","DEF",90,8.51,1,0,1,1,0.1,0,0,56,3,1,1,13,13,10
+"jarrod bowen","West Ham United","12/08/2023","bournemouth","west ham united","MID",90,8.51,1,0,6,1,0.2,0.3,3,18,2,2,0,0,7,5
+"tomas soucek","West Ham United","12/11/2023","west ham united","nottingham forest","MID",90,8.51,1,0,4,3,0.6,0.1,0,13,3,1,1,6,1,5
+"phil foden","Manchester City","30/12/2023","manchester city","sheffield united","MID",90,8.51,0,2,3,1,0.2,0.9,6,84,4,0,0,0,1,0
+"ollie watkins","Aston Villa","06/04/2024","aston villa","brentford","FWD",90,8.51,2,0,2,2,0.5,0,0,13,1,0,0,0,0,3
+"darwin nunez","Liverpool","12/11/2022","liverpool","southampton","FWD",86,8.5,2,0,3,3,0.7,0.3,2,19,4,0,0,0,3,1
+"gabriel martinelli","Arsenal","01/03/2023","arsenal","everton","FWD",90,8.5,2,0,3,2,0.9,0.2,1,34,1,1,1,1,2,0
+"alexander isak","Newcastle United","30/04/2023","newcastle united","southampton","FWD",89,8.5,0,1,0,0,0,0.4,3,24,9,0,1,0,3,0
+"michael olise","Crystal Palace","27/12/2023","chelsea","crystal palace","FWD",90,8.5,1,0,6,3,0.8,0.1,2,26,3,0,0,2,4,0
+"rodri","Manchester City","31/01/2024","manchester city","burnley","DEF",86,8.5,1,0,1,1,0.1,0,1,98,7,1,0,2,3,5
+"miguel almiron","Newcastle United","18/05/2023","newcastle united","brighton  hove albion","FWD",89,8.49,0,1,4,1,0.5,0.5,4,18,4,2,2,0,11,0
+"joachim andersen","Crystal Palace","12/08/2023","sheffield united","crystal palace","DEF",90,8.49,0,0,2,2,0.2,0.1,2,78,10,1,0,6,6,4
+"ethan pinnock","Brentford","28/10/2023","chelsea","brentford","DEF",90,8.49,1,0,1,1,0.2,0.1,0,28,1,2,0,8,1,5
+"dwight mcneil","Everton","07/12/2023","everton","newcastle united","MID",90,8.49,1,1,2,1,0.2,0.4,4,28,1,0,1,1,9,0
+"marcus tavernier","Bournemouth","09/12/2023","manchester united","bournemouth","MID",87,8.49,0,2,2,1,0.1,0.2,3,15,2,0,0,1,8,1
+"harry kane","Tottenham Hotspur","15/10/2022","tottenham hotspur","everton","FWD",89,8.48,1,0,6,3,1.2,0.1,3,15,4,1,0,1,5,0
+"bruno fernandes","Manchester United","18/01/2023","crystal palace","manchester united","MID",90,8.48,1,0,3,1,0.3,0.6,4,56,11,4,0,1,10,1
+"alexander isak","Newcastle United","17/03/2023","nottingham forest","newcastle united","FWD",90,8.48,2,0,4,1,1.5,0,1,15,1,0,0,4,1,3
+"gabriel martinelli","Arsenal","01/04/2023","arsenal","leeds united","FWD",90,8.48,0,1,4,1,0.4,0.4,2,34,3,0,1,1,6,1
+"eberechi eze","Crystal Palace","03/09/2023","crystal palace","wolverhampton wanderers","MID",90,8.48,1,0,3,3,0.6,0.1,4,29,3,1,0,0,5,1
+"ben white","Arsenal","30/09/2023","bournemouth","arsenal","DEF",90,8.48,1,0,1,1,0.1,0,0,41,3,4,2,5,4,2
+"ollie watkins","Aston Villa","22/10/2023","aston villa","west ham united","FWD",90,8.48,1,1,4,2,0.5,0,1,18,1,0,0,1,1,1
+"marcos senesi","Bournemouth","09/12/2023","manchester united","bournemouth","DEF",90,8.48,1,0,1,1,0.1,0,1,26,4,1,1,9,2,0
+"jordan clark","Luton Town","06/04/2024","luton town","bournemouth","MID",90,8.48,1,0,3,1,0.3,0.1,3,43,7,3,2,1,10,3
+"ivan toney","Brentford","30/12/2022","west ham united","brentford","FWD",89,8.47,1,1,3,1,0.7,0.2,2,23,4,0,1,1,4,5
+"trent alexanderarnold","Liverpool","17/04/2023","leeds united","liverpool","DEF",90,8.47,0,2,0,0,0,0.8,2,129,13,2,1,2,11,0
+"rodri","Manchester City","27/08/2023","sheffield united","manchester city","DEF",90,8.47,1,0,5,2,0.3,0.1,1,114,12,3,1,1,12,2
+"kurt zouma","West Ham United","01/09/2023","luton town","west ham united","DEF",90,8.47,1,0,1,1,0.2,0,0,60,2,1,3,11,5,7
+"ibrahima konate","Liverpool","21/01/2024","bournemouth","liverpool","DEF",90,8.47,0,0,0,0,0,0,1,71,4,1,1,9,5,8
+"cole palmer","Chelsea","11/03/2024","chelsea","newcastle united","MID",85,8.47,1,1,3,2,0.1,0,3,21,4,2,1,0,4,0
+"declan rice","Arsenal","23/04/2024","arsenal","chelsea","MID",90,8.47,0,1,3,1,0.2,0,1,33,2,3,2,2,5,1
+"bukayo saka","Arsenal","28/04/2024","tottenham hotspur","arsenal","FWD",90,8.47,1,0,3,2,0.4,0,1,24,3,3,2,1,2,1
+"rodri","Manchester City","04/05/2024","manchester city","wolverhampton wanderers","DEF",90,8.47,0,2,1,0,0,0.6,5,80,12,0,1,0,7,1
+"moises caicedo","Chelsea","05/05/2024","chelsea","west ham united","DEF",90,8.47,0,1,1,0,0,0.2,1,95,10,2,0,0,3,0
+"harvey elliott","Liverpool","27/08/2022","liverpool","bournemouth","MID",45,8.46,1,0,1,1,0,0.8,1,32,5,0,0,0,0,0
+"bernd leno","Fulham","20/10/2022","fulham","aston villa","GK",90,8.46,0,0,0,0,0,0,0,38,0,0,0,1,3,2
+"amadou onana","Everton","14/01/2023","everton","southampton","MID",90,8.46,1,0,3,2,0.2,0,0,37,4,1,3,2,8,4
+"john mcginn","Aston Villa","30/09/2023","aston villa","brighton  hove albion","MID",90,8.46,0,1,1,0,0,0.3,3,20,6,1,1,0,2,0
+"dominik szoboszlai","Liverpool","06/12/2023","sheffield united","liverpool","MID",90,8.46,1,0,1,1,0.5,0.1,2,60,5,1,1,1,12,2
+"julian alvarez","Manchester City","27/12/2023","everton","manchester city","FWD",90,8.46,1,0,4,3,1.2,0.5,4,30,1,0,0,1,1,0
+"mark flekken","Brentford","20/02/2024","manchester city","brentford","GK",90,8.46,0,0,0,0,0,0,0,27,0,0,0,0,0,1
+"jeremy doku","Manchester City","03/04/2024","manchester city","aston villa","MID",79,8.46,0,1,3,2,0.1,0.2,4,39,5,0,0,0,5,0
+"bruno guimaraes","Newcastle United","13/04/2024","newcastle united","tottenham hotspur","MID",89,8.46,0,1,0,0,0,0.2,1,15,2,4,2,1,7,1
+"son heungmin","Tottenham Hotspur","19/05/2024","sheffield united","tottenham hotspur","FWD",87,8.46,0,1,2,2,0.1,0.5,4,41,7,1,0,0,3,0
+"pervis estupinan","Brighton & Hove Albion","11/02/2023","crystal palace","brighton  hove albion","DEF",90,8.45,0,1,1,0,0.1,0.4,3,62,4,2,2,3,8,2
+"andrew robertson","Liverpool","05/03/2023","liverpool","manchester united","DEF",90,8.45,0,1,2,0,0.2,0.3,3,40,5,3,1,1,7,1
+"philip billing","Bournemouth","08/04/2023","leicester city","bournemouth","MID",90,8.45,1,0,5,2,0.4,0.2,2,30,7,0,1,2,8,2
+"jack grealish","Manchester City","03/05/2023","manchester city","west ham united","MID",90,8.45,0,1,3,0,0.1,0.9,4,46,12,1,0,1,5,0
+"ilkay gundogan","Manchester City","06/05/2023","manchester city","leeds united","DEF",89,8.45,2,0,2,2,1,0.4,0,171,20,0,0,0,11,2
+"phil foden","Manchester City","23/09/2023","manchester city","nottingham forest","MID",86,8.45,1,0,1,1,0.1,0,1,49,4,2,1,2,2,0
+"leandro trossard","Arsenal","11/11/2023","arsenal","burnley","FWD",80,8.45,1,1,3,2,0.5,0.2,2,24,8,0,0,0,0,1
+"alexis mac allister","Liverpool","21/02/2024","liverpool","luton town","MID",88,8.45,0,2,0,0,0,0.4,4,40,7,1,2,0,3,1
+"carlton morris","Luton Town","06/04/2024","luton town","bournemouth","FWD",90,8.45,1,0,5,3,0.7,0.1,1,19,1,0,0,1,5,4
+"bukayo saka","Arsenal","23/04/2024","arsenal","chelsea","FWD",81,8.45,0,1,4,1,0.1,0.2,5,29,4,2,1,0,4,0
+"harvey elliott","Liverpool","05/03/2023","liverpool","manchester united","MID",84,8.44,0,1,3,1,0.2,0.8,1,45,11,3,1,1,10,1
+"tosin adarabioyo","Fulham","10/12/2023","fulham","west ham united","DEF",90,8.44,1,0,1,1,0,0,0,100,4,0,2,5,1,4
+"bruno guimaraes","Newcastle United","16/12/2023","newcastle united","fulham","MID",90,8.44,0,1,2,1,0.1,0.9,5,107,28,0,0,0,5,0
+"virgil van dijk","Liverpool","21/02/2024","liverpool","luton town","DEF",90,8.44,1,0,2,2,0.2,0,0,59,1,0,0,7,7,7
+"jeremy doku","Manchester City","19/05/2024","manchester city","west ham united","MID",90,8.44,0,1,4,2,0.1,0.2,3,28,0,1,0,0,3,0
+"martin odegaard","Arsenal","26/12/2022","arsenal","west ham united","MID",90,8.43,0,2,6,0,0.4,0.3,5,58,17,1,0,0,7,1
+"ollie watkins","Aston Villa","12/03/2023","west ham united","aston villa","FWD",84,8.43,1,0,4,3,0.7,0.1,1,11,0,1,0,2,1,4
+"gabriel martinelli","Arsenal","09/04/2023","liverpool","arsenal","FWD",90,8.43,1,1,1,1,0.2,0.4,3,23,2,1,0,0,2,0
+"alex iwobi","Everton","01/05/2023","leicester city","everton","MID",90,8.43,1,0,5,2,0.3,0.3,3,29,6,1,0,0,8,1
+"taiwo awoniyi","Nottingham Forest","08/05/2023","nottingham forest","southampton","FWD",80,8.43,2,0,3,2,0.3,0,0,7,0,0,0,3,3,0
+"trent alexanderarnold","Liverpool","15/05/2023","leicester city","liverpool","DEF",90,8.43,1,0,1,1,0.1,0.3,1,84,2,0,1,1,9,0
+"sven botman","Newcastle United","24/09/2023","sheffield united","newcastle united","DEF",90,8.43,1,0,1,1,0,0,0,87,2,0,1,2,9,3
+"james wardprowse","West Ham United","30/09/2023","west ham united","sheffield united","MID",90,8.43,0,0,2,2,0.1,1.1,6,62,1,2,1,1,5,1
+"gabriel jesus","Arsenal","20/01/2024","arsenal","crystal palace","FWD",80,8.43,0,1,3,0,0.1,0.4,4,16,3,1,0,0,1,1
+"joao gomes","Wolverhampton Wanderers","17/02/2024","tottenham hotspur","wolverhampton wanderers","MID",90,8.43,2,0,2,2,0.5,0,0,15,3,3,0,5,5,0
+"jarrod bowen","West Ham United","27/04/2024","west ham united","liverpool","MID",90,8.43,1,1,3,3,0.2,0.2,1,5,1,0,1,0,5,1
+"robin olsen","Aston Villa","05/05/2024","brighton  hove albion","aston villa","GK",90,8.43,0,0,0,0,0,0,0,45,0,0,0,0,1,0
+"jarrod bowen","West Ham United","21/01/2023","west ham united","everton","MID",90,8.42,2,0,4,2,1.5,0.2,1,10,5,0,1,1,4,1
+"pascal gross","Brighton & Hove Albion","26/08/2023","brighton  hove albion","west ham united","DEF",90,8.42,1,0,5,4,0.2,0.4,6,102,26,1,0,0,5,0
+"odsonne edouard","Crystal Palace","03/09/2023","crystal palace","wolverhampton wanderers","FWD",89,8.42,2,0,7,3,0.8,0,0,11,4,0,1,0,3,1
+"raul jimenez","Fulham","10/12/2023","fulham","west ham united","FWD",71,8.42,1,0,1,1,0.1,0.2,2,17,2,0,1,1,3,0
+"miguel almiron","Newcastle United","16/12/2023","newcastle united","fulham","FWD",90,8.42,1,0,5,1,1.2,0.1,3,67,13,2,0,0,3,0
+"guglielmo vicario","Tottenham Hotspur","23/12/2023","tottenham hotspur","everton","GK",90,8.42,0,0,0,0,0,0,0,65,0,0,0,0,2,0
+"bruno fernandes","Manchester United","13/04/2024","bournemouth","manchester united","MID",90,8.42,2,0,2,1,1,0.1,0,62,10,1,0,3,8,2
+"elliot anderson","Newcastle United","11/05/2024","newcastle united","brighton  hove albion","MID",90,8.42,0,1,2,0,0.1,0.5,3,45,6,0,1,4,3,2
+"jose sa","Wolverhampton Wanderers","13/08/2022","wolverhampton wanderers","fulham","GK",90,8.41,0,0,0,0,0,0,0,28,0,0,0,0,1,0
+"martin odegaard","Arsenal","30/10/2022","arsenal","nottingham forest","MID",90,8.41,1,0,3,1,0.2,0.5,5,38,5,0,1,1,2,0
+"sam greenwood","Leeds United","05/11/2022","leeds united","bournemouth","DEF",37,8.41,1,1,3,1,0.1,0.2,3,18,5,1,0,0,7,0
+"nick pope","Newcastle United","08/04/2023","brentford","newcastle united","GK",90,8.41,0,0,0,0,0,0,0,15,0,0,0,1,1,0
+"bryan mbeumo","Brentford","28/10/2023","chelsea","brentford","FWD",90,8.41,1,1,4,2,1.2,0.3,1,13,2,1,0,0,2,3
+"chiedozie ogbene","Luton Town","30/01/2024","luton town","brighton  hove albion","DEF",90,8.41,1,0,3,2,1.1,0.1,1,27,3,0,0,0,10,3
+"bukayo saka","Arsenal","24/02/2024","arsenal","newcastle united","FWD",75,8.41,1,0,4,2,0.2,0.7,2,32,2,0,0,1,7,0
+"tyrick mitchell","Crystal Palace","06/05/2024","crystal palace","manchester united","DEF",90,8.41,1,0,2,2,0.3,0.1,2,31,2,1,0,1,6,0
+"michael olise","Crystal Palace","11/05/2024","wolverhampton wanderers","crystal palace","MID",87,8.41,1,1,2,1,0.3,0.5,2,27,5,2,1,0,6,0
+"mason mount","Chelsea","27/12/2022","chelsea","bournemouth","MID",90,8.4,1,0,2,2,0.1,0.1,4,37,7,2,1,0,4,0
+"tom cairney","Fulham","06/12/2023","fulham","nottingham forest","DEF",90,8.4,1,0,1,1,0.3,0.1,2,98,15,3,0,0,7,0
+"phil foden","Manchester City","13/08/2022","manchester city","bournemouth","MID",45,8.39,1,1,2,2,0.5,0.1,2,30,3,0,1,0,2,0
+"james wardprowse","Southampton","18/02/2023","chelsea","southampton","MID",90,8.39,1,0,1,1,0.1,0.3,2,35,4,2,4,4,9,0
+"antony","Manchester United","16/04/2023","nottingham forest","manchester united","MID",90,8.39,1,1,7,1,1.1,0.4,1,51,8,1,1,0,2,0
+"morgan gibbswhite","Nottingham Forest","08/05/2023","nottingham forest","southampton","FWD",90,8.39,1,1,1,0,0.9,0.3,3,26,5,0,1,1,4,4
+"callum wilson","Newcastle United","18/05/2023","newcastle united","brighton  hove albion","FWD",90,8.39,1,1,4,2,1.7,0.3,3,8,1,0,0,0,3,1
+"granit xhaka","Arsenal","28/05/2023","arsenal","wolverhampton wanderers","MID",74,8.39,2,0,3,2,1,0,0,23,2,1,0,2,1,0
+"craig dawson","Wolverhampton Wanderers","21/10/2023","bournemouth","wolverhampton wanderers","DEF",90,8.39,0,0,3,2,0.3,0.1,1,53,5,3,3,6,8,2
+"john mcginn","Aston Villa","09/12/2023","aston villa","arsenal","MID",90,8.39,1,0,2,1,0.2,0,1,11,4,4,2,1,7,0
+"pedro porro","Tottenham Hotspur","10/12/2023","tottenham hotspur","newcastle united","DEF",90,8.39,0,1,3,1,0.1,0.4,3,50,6,3,1,1,4,0
+"pascal gross","Brighton & Hove Albion","28/12/2023","brighton  hove albion","tottenham hotspur","MID",90,8.39,0,0,0,0,0,0.3,3,59,7,3,4,5,10,0
+"arijanet muric","Burnley","20/04/2024","sheffield united","burnley","GK",90,8.39,0,0,0,0,0,0,0,50,0,0,0,1,1,0
+"conor gallagher","Chelsea","05/05/2024","chelsea","west ham united","DEF",90,8.39,1,0,2,1,0.8,0.1,3,61,6,1,1,3,3,0
+"harry kane","Tottenham Hotspur","28/08/2022","nottingham forest","tottenham hotspur","FWD",90,8.38,2,0,5,3,1.4,0.1,3,23,5,0,0,0,3,1
+"willian","Fulham","23/10/2022","leeds united","fulham","MID",88,8.38,1,0,1,1,0.5,0.2,1,25,5,1,1,0,9,0
+"douglas luiz","Aston Villa","01/01/2023","tottenham hotspur","aston villa","MID",81,8.38,1,0,5,3,0.4,0,1,48,2,1,2,1,8,0
+"neal maupay","Brentford","02/12/2023","brentford","luton town","FWD",89,8.38,1,0,4,2,1,0.1,2,25,1,1,0,0,7,0
+"cole palmer","Chelsea","16/12/2023","chelsea","sheffield united","MID",89,8.38,1,1,5,2,0.7,1.3,2,59,10,0,0,1,3,0
+"douglas luiz","Aston Villa","03/02/2024","sheffield united","aston villa","DEF",45,8.38,0,1,1,1,0,0.5,4,30,2,2,0,0,2,0
+"bukayo saka","Arsenal","17/02/2024","burnley","arsenal","FWD",68,8.38,2,0,2,1,0.9,0.2,0,24,2,2,0,2,4,0
+"bruno guimaraes","Newcastle United","27/04/2024","newcastle united","sheffield united","MID",90,8.38,1,0,4,1,0.4,0.1,2,66,15,1,2,0,8,1
+"thomas partey","Arsenal","01/10/2022","arsenal","tottenham hotspur","DEF",72,8.37,1,0,2,1,0.1,0.1,4,54,11,0,3,1,7,0
+"phil foden","Manchester City","04/03/2023","manchester city","newcastle united","MID",90,8.37,1,0,3,2,0.3,0.1,1,23,4,0,0,2,4,1
+"matheus nunes","Wolverhampton Wanderers","08/04/2023","wolverhampton wanderers","chelsea","MID",89,8.37,1,0,1,1,0,0,1,24,1,3,0,1,8,1
+"alex moreno","Aston Villa","03/02/2024","sheffield united","aston villa","DEF",90,8.37,1,0,1,1,0.2,0,1,38,2,2,3,1,4,0
+"dominic calvertlewin","Everton","06/04/2024","everton","burnley","FWD",82,8.37,1,0,4,3,0.5,0,1,4,2,0,1,1,5,4
+"anthony gordon","Newcastle United","04/05/2024","burnley","newcastle united","MID",84,8.37,0,1,2,1,0.1,0.3,3,17,1,1,0,0,8,0
+"william saliba","Arsenal","18/09/2022","brentford","arsenal","DEF",90,8.36,1,0,1,1,0.2,0,0,57,2,2,0,2,7,1
+"roberto firmino","Liverpool","01/10/2022","liverpool","brighton  hove albion","FWD",74,8.36,2,0,4,3,0.6,0,1,31,4,0,0,0,3,0
+"illan meslier","Leeds United","02/10/2022","leeds united","aston villa","GK",90,8.36,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+"darwin nunez","Liverpool","06/11/2022","tottenham hotspur","liverpool","FWD",86,8.36,0,1,4,2,0.4,0.2,2,26,0,1,2,2,6,1
+"bryan mbeumo","Brentford","22/04/2023","brentford","aston villa","FWD",90,8.36,0,1,3,1,0.6,0.3,4,22,6,0,1,1,5,2
+"mohamed salah","Liverpool","15/05/2023","leicester city","liverpool","FWD",87,8.36,0,3,5,1,0.9,0.4,4,31,6,1,0,0,6,0
+"moussa diaby","Aston Villa","27/08/2023","burnley","aston villa","MID",72,8.36,1,1,2,1,0.2,0.1,2,22,1,0,0,1,4,0
+"michael keane","Everton","16/12/2023","burnley","everton","DEF",90,8.36,1,0,3,2,0.6,0,0,31,3,0,0,8,4,4
+"rodrigo muniz","Fulham","16/03/2024","fulham","tottenham hotspur","FWD",63,8.36,2,0,3,2,1.4,0,0,4,1,0,0,1,2,2
+"leon bailey","Aston Villa","21/04/2024","aston villa","bournemouth","MID",86,8.36,1,1,1,1,1,0.3,6,36,12,0,0,0,7,0
+"bernardo silva","Manchester City","27/08/2022","manchester city","crystal palace","DEF",90,8.35,1,0,3,1,0.2,0.4,4,52,5,0,0,0,3,0
+"gabriel martinelli","Arsenal","31/08/2022","arsenal","aston villa","FWD",90,8.35,1,0,5,2,0.2,0.4,2,31,5,1,1,1,2,0
+"bukayo saka","Arsenal","18/02/2023","aston villa","arsenal","FWD",90,8.35,1,0,6,2,0.3,0.3,0,29,4,2,0,1,3,0
+"joel matip","Liverpool","26/04/2023","west ham united","liverpool","DEF",90,8.35,1,0,3,2,0.6,0,0,75,8,1,4,5,6,9
+"phil foden","Manchester City","19/08/2023","manchester city","newcastle united","MID",90,8.35,0,1,3,1,0.3,0.5,7,50,11,0,0,0,9,0
+"abdoulaye doucoure","Everton","07/10/2023","everton","bournemouth","FWD",89,8.35,1,0,5,3,0.7,0.2,2,34,7,2,0,0,2,1
+"joao pedro","Brighton & Hove Albion","03/02/2024","brighton  hove albion","crystal palace","MID",87,8.35,1,0,3,1,0.5,0.1,1,36,2,0,1,1,2,0
+"rodri","Manchester City","20/02/2024","manchester city","brentford","DEF",90,8.35,0,0,2,0,0.1,0.3,5,95,18,1,1,5,4,6
+"moises caicedo","Chelsea","19/05/2024","chelsea","bournemouth","DEF",63,8.35,1,0,1,1,0,0,1,44,3,4,3,1,6,0
+"tim ream","Fulham","26/12/2022","crystal palace","fulham","DEF",90,8.34,1,0,1,1,0.1,0,0,68,4,2,1,0,5,1
+"ben mee","Brentford","04/02/2023","brentford","southampton","DEF",90,8.34,1,0,3,1,0.3,0,0,31,2,1,1,2,5,4
+"dango ouattara","Bournemouth","11/03/2023","bournemouth","liverpool","MID",90,8.34,0,1,1,0,0.4,0,1,8,0,0,0,5,2,6
+"bruno fernandes","Manchester United","16/04/2023","nottingham forest","manchester united","MID",90,8.34,0,0,5,3,0.3,0.4,6,57,11,1,0,1,9,1
+"dominic calvertlewin","Everton","08/05/2023","brighton  hove albion","everton","FWD",86,8.34,0,1,1,0,0,0.4,2,10,1,0,1,4,5,9
+"bruno fernandes","Manchester United","26/08/2023","manchester united","nottingham forest","MID",90,8.34,1,1,5,2,1.2,0.6,3,59,9,2,0,2,6,1
+"mario lemina","Wolverhampton Wanderers","11/11/2023","wolverhampton wanderers","tottenham hotspur","MID",90,8.34,1,0,3,2,0.8,0,0,38,3,3,2,0,10,0
+"diogo dalot","Manchester United","11/02/2024","aston villa","manchester united","DEF",90,8.34,0,1,0,0,0,0.2,2,24,1,2,2,5,3,1
+"son heungmin","Tottenham Hotspur","02/03/2024","tottenham hotspur","crystal palace","FWD",89,8.34,1,0,5,1,0.5,0.3,3,17,3,0,0,0,1,0
+"antony","Manchester United","27/04/2024","manchester united","burnley","MID",90,8.34,1,0,8,6,1.5,0.2,1,32,4,3,2,0,7,1
+"philip billing","Bournemouth","17/09/2022","newcastle united","bournemouth","MID",89,8.33,1,0,2,1,0.4,0,2,13,2,3,1,3,2,4
+"rodrigo bentancur","Tottenham Hotspur","12/11/2022","tottenham hotspur","leeds united","MID",90,8.33,2,0,2,2,0.3,0,0,37,6,1,2,1,12,0
+"declan rice","West Ham United","23/04/2023","bournemouth","west ham united","MID",90,8.33,1,0,2,1,0.1,0,1,37,6,2,1,0,12,0
+"mohamed salah","Liverpool","16/09/2023","wolverhampton wanderers","liverpool","FWD",89,8.33,0,2,1,0,0.2,1.5,5,19,2,1,0,0,1,1
+"raheem sterling","Chelsea","07/10/2023","burnley","chelsea","FWD",82,8.33,1,0,3,2,0.5,0.1,1,13,4,1,0,0,4,0
+"james maddison","Tottenham Hotspur","23/10/2023","tottenham hotspur","fulham","MID",81,8.33,1,0,3,2,0.6,0.2,4,39,10,2,0,0,2,0
+"ryan christie","Bournemouth","06/12/2023","crystal palace","bournemouth","DEF",90,8.33,0,0,0,0,0,0.3,3,31,3,3,3,0,10,1
+"jarrod bowen","West Ham United","17/12/2023","west ham united","wolverhampton wanderers","FWD",90,8.33,1,0,3,1,0.1,0,0,16,1,0,2,1,2,2
+"kieran trippier","Newcastle United","23/12/2023","luton town","newcastle united","DEF",90,8.33,0,0,0,0,0,0.3,5,66,5,3,1,3,6,1
+"mathias jensen","Brentford","13/08/2022","brentford","manchester united","MID",73,8.32,1,1,2,1,0.3,0.3,1,24,1,2,0,1,6,0
+"andreas pereira","Fulham","23/10/2022","leeds united","fulham","MID",90,8.32,0,2,1,1,0.5,0.2,4,17,4,0,1,0,3,0
+"bryan mbeumo","Brentford","04/02/2023","brentford","southampton","FWD",81,8.32,1,1,3,1,0.8,0.4,3,33,5,0,0,0,6,0
+"son heungmin","Tottenham Hotspur","11/03/2023","tottenham hotspur","nottingham forest","MID",83,8.32,1,0,4,2,0.5,0.4,5,25,4,0,1,0,4,0
+"carlos vinicius","Fulham","08/05/2023","fulham","leicester city","FWD",90,8.32,1,1,2,1,0.3,0,1,13,2,0,0,0,2,4
+"bukayo saka","Arsenal","28/05/2023","arsenal","wolverhampton wanderers","FWD",59,8.32,1,0,3,2,0.3,0.1,1,16,2,2,0,0,2,0
+"diogo jota","Liverpool","28/05/2023","southampton","liverpool","FWD",90,8.32,2,0,4,2,1,0,0,19,0,3,0,0,3,1
+"anthony gordon","Newcastle United","16/12/2023","newcastle united","fulham","FWD",83,8.32,0,1,4,1,0.3,0.4,4,34,5,2,1,0,2,0
+"david datro fofana","Burnley","10/03/2024","west ham united","burnley","FWD",90,8.32,1,0,3,2,0.2,0.1,0,13,2,2,0,0,1,3
+"nicolas jackson","Chelsea","11/03/2024","chelsea","newcastle united","FWD",89,8.32,1,0,2,2,0.3,0,1,10,1,2,0,1,2,2
+"jacob murphy","Newcastle United","27/04/2024","newcastle united","sheffield united","FWD",65,8.32,0,1,1,0,0.1,0.4,4,38,8,1,1,0,1,0
+"eberechi eze","Crystal Palace","06/05/2024","crystal palace","manchester united","MID",84,8.32,0,0,3,1,0.2,0.1,2,23,3,1,1,0,2,0
+"dwight mcneil","Everton","01/10/2022","southampton","everton","FWD",73,8.31,1,0,2,1,0.1,0.5,2,26,5,1,1,0,7,1
+"diogo dalot","Manchester United","30/10/2022","manchester united","west ham united","DEF",90,8.31,0,0,1,0,0,0.1,4,33,2,4,3,5,5,2
+"kaoru mitoma","Brighton & Hove Albion","05/11/2022","wolverhampton wanderers","brighton  hove albion","MID",89,8.31,1,0,1,1,0.1,0.5,2,39,7,2,0,1,5,2
+"michael olise","Crystal Palace","31/12/2022","bournemouth","crystal palace","MID",87,8.31,0,2,1,0,0,0.2,3,23,3,2,1,0,5,1
+"tete","Leicester City","04/02/2023","aston villa","leicester city","MID",82,8.31,1,0,3,1,0.8,0,0,22,1,0,1,0,10,0
+"junior firpo","Leeds United","25/02/2023","leeds united","southampton","DEF",90,8.31,1,0,1,1,0.1,0.2,1,51,9,1,3,0,5,0
+"kyle walkerpeters","Southampton","12/03/2023","manchester united","southampton","DEF",90,8.31,0,0,2,1,0.1,0.3,0,39,1,3,3,4,7,0
+"jefferson lerma","Bournemouth","30/04/2023","bournemouth","leeds united","DEF",90,8.31,2,0,3,3,0.3,0.1,1,42,7,0,0,1,6,0
+"pedro porro","Tottenham Hotspur","28/05/2023","leeds united","tottenham hotspur","MID",89,8.31,1,1,2,1,0.2,0.2,2,27,2,2,1,1,6,0
+"alphonse areola","West Ham United","26/08/2023","brighton  hove albion","west ham united","GK",90,8.31,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+"bernardo silva","Manchester City","29/10/2023","manchester united","manchester city","DEF",90,8.31,0,1,1,1,0.1,1.1,3,54,4,2,0,0,2,0
+"alphonse areola","West Ham United","28/12/2023","arsenal","west ham united","GK",90,8.31,0,0,0,0,0,0,0,16,0,0,0,1,0,0
+"giovani lo celso","Tottenham Hotspur","31/12/2023","tottenham hotspur","bournemouth","MID",81,8.31,0,2,0,0,0,0.1,2,34,8,2,1,1,9,0
+"dwight mcneil","Everton","21/04/2024","everton","nottingham forest","MID",90,8.31,1,0,2,2,0.1,0.1,2,32,4,1,1,2,8,0
+"richarlison","Tottenham Hotspur","03/09/2022","tottenham hotspur","fulham","MID",90,8.3,0,1,3,1,0.3,0.5,4,25,3,4,1,2,7,2
+"phil foden","Manchester City","08/10/2022","manchester city","southampton","MID",57,8.3,1,1,4,3,0.8,0.2,4,28,4,0,0,0,5,0
+"kelechi iheanacho","Leicester City","04/02/2023","aston villa","leicester city","FWD",66,8.3,1,2,2,1,0.9,0.4,2,9,4,0,0,2,2,0
+"morgan gibbswhite","Nottingham Forest","22/04/2023","liverpool","nottingham forest","MID",90,8.3,1,1,3,3,0.2,0.2,2,10,2,0,0,0,2,0
+"bruno guimaraes","Newcastle United","18/05/2023","newcastle united","brighton  hove albion","MID",90,8.3,1,0,2,1,0.2,0,1,23,7,4,4,1,6,0
+"james garner","Everton","07/10/2023","everton","bournemouth","MID",90,8.3,1,0,4,2,0.2,0.1,0,35,5,1,1,1,4,0
+"william saliba","Arsenal","11/02/2024","west ham united","arsenal","DEF",90,8.3,1,0,1,1,0.3,0,1,76,7,0,1,3,3,2
+"leandro trossard","Arsenal","17/02/2024","burnley","arsenal","FWD",68,8.3,1,0,3,1,0.3,0,0,7,0,0,0,2,2,1
+"son heungmin","Tottenham Hotspur","30/03/2024","tottenham hotspur","luton town","FWD",87,8.3,1,0,6,2,0.9,0.2,1,23,4,0,0,0,2,0
+"luis diaz","Liverpool","27/04/2024","west ham united","liverpool","FWD",78,8.3,0,1,3,2,0.1,0.3,7,36,5,0,0,0,2,1
+"jarrod bowen","West Ham United","01/10/2022","west ham united","wolverhampton wanderers","MID",90,8.29,1,0,4,2,0.3,0,3,15,3,1,1,2,2,2
+"joelinton","Newcastle United","29/10/2022","newcastle united","aston villa","FWD",90,8.29,1,0,4,2,0.7,0,2,45,7,2,1,0,7,3
+"jakub kiwior","Arsenal","28/05/2023","arsenal","wolverhampton wanderers","DEF",79,8.29,1,0,1,1,0.1,0,1,20,0,2,0,0,4,1
+"neto","Bournemouth","17/09/2023","bournemouth","chelsea","GK",90,8.29,0,0,0,0,0,0,0,24,0,0,0,1,0,0
+"callum wilson","Newcastle United","24/09/2023","sheffield united","newcastle united","FWD",69,8.29,1,0,5,5,1.2,0,0,6,0,0,0,0,1,0
+"justin kluivert","Bournemouth","25/11/2023","sheffield united","bournemouth","MID",65,8.29,1,0,4,3,0.4,0,2,10,0,1,0,0,4,1
+"neco williams","Nottingham Forest","23/12/2023","nottingham forest","bournemouth","DEF",90,8.29,0,0,1,0,0,0.2,2,25,4,5,1,5,3,4
+"bukayo saka","Arsenal","20/01/2024","arsenal","crystal palace","FWD",90,8.29,0,1,2,0,0.1,0.4,4,28,3,1,1,1,8,1
+"lewis dunk","Brighton & Hove Albion","24/02/2024","brighton  hove albion","everton","DEF",90,8.29,1,0,3,2,0.2,0,2,85,7,1,0,2,4,7
+"phil foden","Manchester City","24/02/2024","bournemouth","manchester city","MID",90,8.29,1,0,4,3,1,0.2,4,51,7,1,0,1,9,0
+"idrissa gana gueye","Everton","21/04/2024","everton","nottingham forest","DEF",90,8.29,1,0,1,1,0,0,1,34,4,1,2,0,8,1
+"andreas pereira","Fulham","20/08/2022","fulham","brentford","MID",90,8.28,0,1,3,2,0.2,0.2,4,27,5,2,1,0,5,0
+"kieran trippier","Newcastle United","03/09/2022","newcastle united","crystal palace","DEF",90,8.28,0,0,1,0,0.1,0.6,6,38,6,1,3,2,9,1
+"yoane wissa","Brentford","19/08/2023","fulham","brentford","FWD",78,8.28,1,0,7,3,1.4,0,0,10,0,0,0,1,3,1
+"james wardprowse","West Ham United","12/11/2023","west ham united","nottingham forest","DEF",90,8.28,0,2,3,0,0.1,0.6,5,75,9,1,0,1,5,1
+"joelinton","Newcastle United","02/12/2023","newcastle united","manchester united","MID",90,8.28,0,0,1,1,0.1,0.2,3,50,6,3,3,1,10,5
+"rodrigo muniz","Fulham","10/02/2024","fulham","bournemouth","FWD",74,8.28,2,0,2,2,0.9,0,0,7,0,0,0,2,3,5
+"antonee robinson","Fulham","10/02/2024","fulham","bournemouth","DEF",90,8.28,0,0,1,1,0.2,0,1,42,2,2,5,7,5,6
+"dango ouattara","Bournemouth","09/03/2024","bournemouth","sheffield united","DEF",45,8.28,1,1,5,1,0.7,0.2,3,36,7,0,0,1,5,1
+"antonee robinson","Fulham","16/03/2024","fulham","tottenham hotspur","DEF",90,8.28,0,1,0,0,0,0.6,1,46,2,1,4,1,9,0
+"eberechi eze","Crystal Palace","14/04/2024","liverpool","crystal palace","FWD",76,8.28,1,0,2,2,0.6,0.8,3,25,5,0,0,0,5,0
+"bruno guimaraes","Newcastle United","01/10/2022","fulham","newcastle united","MID",58,8.27,0,1,0,0,0,0.2,4,52,9,1,0,1,5,0
+"kieran trippier","Newcastle United","02/04/2023","newcastle united","manchester united","DEF",90,8.27,0,1,0,0,0,0.6,4,55,8,0,2,5,9,1
+"alexis mac allister","Brighton & Hove Albion","21/05/2023","brighton  hove albion","southampton","MID",90,8.27,0,1,1,0,0.1,0.3,7,38,6,0,0,0,3,1
+"aaron wanbissaka","Manchester United","14/08/2023","manchester united","wolverhampton wanderers","DEF",90,8.27,0,1,0,0,0,0.7,3,47,3,1,2,2,4,1
+"pedro neto","Wolverhampton Wanderers","03/09/2023","crystal palace","wolverhampton wanderers","MID",90,8.27,0,2,3,2,0.1,0.5,3,43,7,1,1,0,6,0
+"cole palmer","Chelsea","12/02/2024","crystal palace","chelsea","FWD",90,8.27,0,2,3,1,0.1,0.3,3,37,4,0,0,0,4,1
+"bruno guimaraes","Newcastle United","02/04/2024","newcastle united","everton","MID",90,8.27,0,0,1,1,0.1,0.1,2,56,3,2,2,0,8,0
+"pierre hojbjerg","Tottenham Hotspur","14/08/2022","chelsea","tottenham hotspur","MID",90,8.26,1,0,1,1,0,0.2,1,34,1,3,0,6,7,0
+"son heungmin","Tottenham Hotspur","04/01/2023","crystal palace","tottenham hotspur","MID",90,8.26,1,0,2,2,0.5,0.1,1,29,4,1,1,0,9,0
+"andreas pereira","Fulham","11/02/2023","fulham","nottingham forest","MID",89,8.26,0,1,2,0,0.1,0.3,4,24,4,0,0,0,4,0
+"jose sa","Wolverhampton Wanderers","04/03/2023","wolverhampton wanderers","tottenham hotspur","GK",90,8.26,0,0,0,0,0,0,0,22,0,0,0,1,1,1
+"kevin de bruyne","Manchester City","08/04/2023","southampton","manchester city","MID",90,8.26,0,1,1,0,0,1,5,60,10,0,1,0,3,0
+"gabriel martinelli","Arsenal","21/04/2023","arsenal","southampton","FWD",84,8.26,1,0,2,1,0.4,0.5,6,39,3,1,0,0,3,1
+"mohamed salah","Liverpool","28/05/2023","southampton","liverpool","FWD",90,8.26,0,1,8,1,1.2,0.3,2,27,5,1,0,0,2,0
+"ola aina","Nottingham Forest","05/11/2023","nottingham forest","aston villa","DEF",85,8.26,1,0,1,1,0,0.1,1,18,2,2,0,5,9,1
+"jefferson lerma","Crystal Palace","11/11/2023","crystal palace","everton","DEF",90,8.26,0,1,2,0,0.2,0.5,4,78,7,0,5,2,13,8
+"jack hinshelwood","Brighton & Hove Albion","06/12/2023","brighton  hove albion","brentford","DEF",72,8.26,1,0,1,1,0.2,0.1,1,26,3,0,2,3,0,2
+"rodrigo","Leeds United","13/08/2022","southampton","leeds united","FWD",90,8.25,2,0,5,3,1.3,0.3,3,26,3,0,0,1,1,3
+"wilfried zaha","Crystal Palace","20/08/2022","crystal palace","aston villa","FWD",81,8.25,2,0,2,2,1,0.1,3,25,0,1,0,0,3,0
+"leandro trossard","Brighton & Hove Albion","04/09/2022","brighton  hove albion","leicester city","DEF",88,8.25,1,0,1,1,0.2,0.3,4,40,11,1,2,0,2,1
+"sam johnstone","Crystal Palace","22/04/2023","crystal palace","everton","GK",90,8.25,0,0,0,0,0,0,0,28,0,0,0,2,4,2
+"neto","Bournemouth","19/08/2023","liverpool","bournemouth","GK",90,8.25,0,0,0,0,0,0,0,17,0,0,0,0,0,1
+"bukayo saka","Arsenal","24/09/2023","arsenal","tottenham hotspur","FWD",89,8.25,1,0,2,1,0.9,0.3,4,28,3,3,1,0,7,1
+"anthony gordon","Newcastle United","25/11/2023","newcastle united","chelsea","FWD",89,8.25,1,1,3,1,0.1,0.2,1,19,1,0,1,0,4,0
+"harry wilson","Fulham","10/12/2023","fulham","west ham united","MID",45,8.25,1,1,2,2,0.4,0.2,1,24,1,0,0,0,2,0
+"alex scott","Bournemouth","26/12/2023","bournemouth","fulham","DEF",90,8.25,0,1,0,0,0,0.2,1,35,4,2,1,5,4,1
+"hwang heechan","Wolverhampton Wanderers","27/12/2023","brentford","wolverhampton wanderers","FWD",44,8.25,2,0,2,2,1.4,0,0,10,1,0,0,0,2,0
+"luis diaz","Liverpool","21/02/2024","liverpool","luton town","FWD",88,8.25,1,0,10,3,1.8,0.1,1,24,1,2,0,1,5,0
+"leon bailey","Aston Villa","24/02/2024","aston villa","nottingham forest","MID",89,8.25,1,1,3,2,1.1,0.7,1,18,0,0,0,2,6,0
+"rodri","Manchester City","31/03/2024","manchester city","arsenal","DEF",90,8.25,0,0,2,0,0.1,0.2,3,110,13,1,0,1,4,4
+"bruno fernandes","Manchester United","27/04/2024","manchester united","burnley","MID",90,8.25,0,0,3,1,0.1,1.1,9,49,13,0,2,2,5,0
+"marcus tavernier","Bournemouth","12/11/2022","bournemouth","everton","MID",79,8.24,1,1,5,3,0.5,0.1,2,22,5,0,0,2,6,1
+"james tarkowski","Everton","04/02/2023","everton","arsenal","DEF",90,8.24,1,0,2,1,0.4,0,0,16,4,0,2,5,4,3
+"leon bailey","Aston Villa","20/08/2023","aston villa","everton","MID",62,8.24,1,1,2,1,0.3,0.7,1,25,2,0,0,1,1,0
+"michail antonio","West Ham United","26/08/2023","brighton  hove albion","west ham united","FWD",78,8.24,1,0,3,2,0.7,0.3,1,7,0,0,0,0,3,0
+"andreas pereira","Fulham","10/12/2023","fulham","west ham united","MID",90,8.24,0,1,1,0,0,0.4,5,55,8,1,0,1,3,0
+"dominik szoboszlai","Liverpool","31/01/2024","liverpool","chelsea","MID",68,8.24,1,0,3,1,0.3,0.2,2,43,5,1,0,0,6,0
+"jan paul van hecke","Brighton & Hove Albion","18/02/2024","sheffield united","brighton  hove albion","DEF",90,8.24,0,0,1,0,0,0.5,3,138,10,3,0,4,6,6
+"luis diaz","Liverpool","07/04/2024","manchester united","liverpool","FWD",90,8.24,1,0,6,2,1,0.4,3,29,6,0,0,1,4,1
+"alisson","Liverpool","19/10/2022","liverpool","west ham united","GK",90,8.23,0,0,0,0,0,0,0,29,0,0,0,0,1,0
+"evan ferguson","Brighton & Hove Albion","03/01/2023","everton","brighton  hove albion","FWD",70,8.23,1,1,4,1,0.8,0,1,14,0,0,0,0,3,1
+"pervis estupinan","Brighton & Hove Albion","12/08/2023","brighton  hove albion","luton town","DEF",90,8.23,0,1,3,2,0.1,0.9,6,78,15,1,0,0,6,2
+"elliot anderson","Newcastle United","24/09/2023","sheffield united","newcastle united","MID",90,8.23,0,1,2,1,0.1,0.1,3,44,12,3,0,0,2,1
+"anthony elanga","Nottingham Forest","21/10/2023","nottingham forest","luton town","FWD",87,8.23,0,2,2,1,0.1,0.4,3,14,2,0,0,0,3,4
+"cody gakpo","Liverpool","26/12/2023","burnley","liverpool","FWD",66,8.23,0,1,3,2,0.7,0,2,13,3,2,1,1,3,0
+"jefferson lerma","Crystal Palace","24/02/2024","crystal palace","burnley","MID",90,8.23,0,0,3,1,0.1,0.1,1,50,7,1,0,3,4,11
+"andre onana","Manchester United","09/03/2024","manchester united","everton","GK",90,8.23,0,0,0,0,0,0,1,35,0,0,0,0,1,0
+"ruben neves","Wolverhampton Wanderers","28/08/2022","wolverhampton wanderers","newcastle united","MID",90,8.22,1,0,3,1,0.1,0,1,28,5,1,0,6,11,0
+"kevin de bruyne","Manchester City","22/10/2022","manchester city","brighton  hove albion","MID",90,8.22,1,0,2,1,0.1,0.5,3,24,3,2,0,0,7,0
+"kieran trippier","Newcastle United","29/10/2022","newcastle united","aston villa","DEF",90,8.22,0,1,0,0,0,1.3,4,63,6,2,0,2,7,0
+"pierre hojbjerg","Tottenham Hotspur","26/12/2022","brentford","tottenham hotspur","MID",90,8.22,1,0,3,1,0.3,0.1,3,64,10,1,1,2,9,1
+"kaoru mitoma","Brighton & Hove Albion","21/01/2023","leicester city","brighton  hove albion","MID",90,8.22,1,0,1,1,0,0.2,2,41,2,1,2,2,7,0
+"callum wilson","Newcastle United","05/04/2023","west ham united","newcastle united","FWD",63,8.22,2,0,3,2,1.1,0,0,7,0,0,0,0,2,1
+"alex iwobi","Everton","08/05/2023","brighton  hove albion","everton","MID",90,8.22,0,1,0,0,0,0.1,1,17,5,0,1,2,14,0
+"yoane wissa","Brentford","20/05/2023","tottenham hotspur","brentford","FWD",88,8.22,1,1,2,1,0.8,0,2,14,2,0,0,0,2,2
+"phil foden","Manchester City","24/05/2023","brighton  hove albion","manchester city","FWD",50,8.22,1,0,2,1,0.5,0.7,4,21,5,0,0,1,0,0
+"alexander isak","Newcastle United","12/08/2023","newcastle united","aston villa","FWD",67,8.22,2,0,3,3,0.8,0,0,12,1,0,0,0,1,0
+"bryan mbeumo","Brentford","19/08/2023","fulham","brentford","FWD",90,8.22,2,0,2,2,1.9,0.2,1,20,2,0,0,0,5,1
+"mohamed salah","Liverpool","03/09/2023","liverpool","aston villa","FWD",90,8.22,1,0,4,3,0.8,0.1,2,22,4,1,0,0,1,1
+"conor gallagher","Chelsea","06/11/2023","tottenham hotspur","chelsea","MID",90,8.22,0,1,0,0,0,0.2,5,40,6,2,2,0,8,0
+"sander berge","Burnley","23/12/2023","fulham","burnley","MID",90,8.22,1,0,3,1,0.1,0,0,24,2,2,2,0,5,1
+"richarlison","Tottenham Hotspur","03/02/2024","everton","tottenham hotspur","FWD",90,8.22,2,0,4,3,0.7,0,2,16,1,1,0,1,3,2
+"andrew robertson","Liverpool","05/05/2024","liverpool","tottenham hotspur","DEF",63,8.22,1,0,2,1,0.9,0.3,1,39,2,2,2,0,6,1
+"rasmus hojlund","Manchester United","19/05/2024","brighton  hove albion","manchester united","FWD",31,8.22,1,0,1,1,0.1,0,1,8,2,1,0,0,2,2
+"alexis mac allister","Liverpool","19/05/2024","liverpool","wolverhampton wanderers","MID",69,8.22,1,0,2,1,0.6,0.1,3,39,4,2,1,2,3,3
+"chris wood","Nottingham Forest","19/05/2024","burnley","nottingham forest","FWD",78,8.22,2,0,4,3,1.3,0,0,9,1,0,0,0,1,3
+"ivan toney","Brentford","13/08/2022","brentford","manchester united","FWD",90,8.21,0,2,1,0,0,0,4,16,4,0,1,0,0,4
+"nick pope","Newcastle United","03/09/2022","newcastle united","crystal palace","GK",90,8.21,0,0,0,0,0,0,0,14,0,0,0,1,1,0
+"james maddison","Leicester City","23/10/2022","wolverhampton wanderers","leicester city","MID",90,8.21,1,0,1,1,0.1,0.1,1,22,6,0,1,0,4,0
+"kai havertz","Chelsea","27/12/2022","chelsea","bournemouth","FWD",90,8.21,1,1,3,1,0.8,0.1,2,21,7,0,0,4,1,5
+"nayef aguerd","West Ham United","21/01/2023","west ham united","everton","DEF",90,8.21,0,0,1,0,0.4,0,0,42,4,3,0,11,8,4
+"luke shaw","Manchester United","19/02/2023","manchester united","leicester city","DEF",68,8.21,0,0,3,1,0.2,0.1,1,35,6,2,2,3,0,2
+"virgil van dijk","Liverpool","01/03/2023","liverpool","wolverhampton wanderers","DEF",90,8.21,1,0,2,2,0.7,0,1,67,3,0,1,2,7,3
+"joe willock","Newcastle United","12/03/2023","newcastle united","wolverhampton wanderers","MID",90,8.21,0,1,3,2,0.3,0.1,2,22,6,1,1,4,4,0
+"erling haaland","Manchester City","08/04/2023","southampton","manchester city","FWD",68,8.21,2,0,3,2,1,0,0,2,1,0,0,0,0,2
+"pascal gross","Brighton & Hove Albion","12/08/2023","brighton  hove albion","luton town","DEF",90,8.21,0,0,3,1,0.5,0.5,6,67,8,1,2,1,3,2
+"nicolas jackson","Chelsea","25/08/2023","chelsea","luton town","FWD",82,8.21,1,0,5,3,0.7,0.2,2,20,2,1,1,0,5,0
+"rodri","Manchester City","29/10/2023","manchester united","manchester city","DEF",90,8.21,0,0,2,1,0.1,0.1,0,80,10,2,1,1,4,4
+"victor lindelof","Manchester United","11/11/2023","manchester united","luton town","DEF",90,8.21,1,0,1,1,0.1,0,0,109,10,1,1,3,3,3
+"bruno guimaraes","Newcastle United","10/02/2024","nottingham forest","newcastle united","MID",90,8.21,2,0,2,2,0.3,0,0,40,6,0,0,0,11,0

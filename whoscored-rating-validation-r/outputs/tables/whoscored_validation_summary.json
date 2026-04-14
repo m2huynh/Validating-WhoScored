@@ -1,0 +1,175 @@
+{
+  "study1": {
+    "n_player_matches_main": 17387,
+    "mean_ws_rating": 6.7816,
+    "sd_ws_rating": 0.7135,
+    "threshold_2sd": 8.2086,
+    "n_exceptional_2sd": 666,
+    "share_exceptional_2sd": 0.0383,
+    "top_correlations": [
+      {
+        "variable": "Gls",
+        "spearman_r": 0.4345,
+        "mean": 0.1148,
+        "sd": 0.3622,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "team_goals",
+        "spearman_r": 0.403,
+        "mean": 1.513,
+        "sd": 1.3281,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "SoT",
+        "spearman_r": 0.3615,
+        "mean": 0.3445,
+        "sd": 0.6744,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "SCA_SCA",
+        "spearman_r": 0.3522,
+        "mean": 1.8415,
+        "sd": 2.0187,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "GCA_SCA",
+        "spearman_r": 0.3436,
+        "mean": 0.1987,
+        "sd": 0.4946,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "xAG",
+        "spearman_r": 0.3346,
+        "mean": 0.0849,
+        "sd": 0.1767,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "xAG_Expected",
+        "spearman_r": 0.3346,
+        "mean": 0.0849,
+        "sd": 0.1767,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "KP",
+        "spearman_r": 0.3342,
+        "mean": 0.7882,
+        "sd": 1.1407,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "xA",
+        "spearman_r": 0.3105,
+        "mean": 0.0688,
+        "sd": 0.1342,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "Ast",
+        "spearman_r": 0.3083,
+        "mean": 0.0817,
+        "sd": 0.2965,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "Sh",
+        "spearman_r": 0.2935,
+        "mean": 1.0272,
+        "sd": 1.3447,
+        "n_non_missing": 17387
+      },
+      {
+        "variable": "xG_Expected",
+        "spearman_r": 0.2912,
+        "mean": 0.1174,
+        "sd": 0.238,
+        "n_non_missing": 17387
+      }
+    ],
+    "group_model_r2": [
+      {
+        "model": "full_model_all_groups",
+        "r2_cv": 0.7287,
+        "features": 87,
+        "drop_from_full": 0
+      },
+      {
+        "model": "attack_only",
+        "r2_cv": 0.466,
+        "features": 19,
+        "drop_from_full": 0.2627
+      },
+      {
+        "model": "full_minus_attack",
+        "r2_cv": 0.3825,
+        "features": 68,
+        "drop_from_full": 0.3462
+      },
+      {
+        "model": "passing_only",
+        "r2_cv": 0.096,
+        "features": 24,
+        "drop_from_full": 0.6327
+      },
+      {
+        "model": "full_minus_passing",
+        "r2_cv": 0.7116,
+        "features": 63,
+        "drop_from_full": 0.017
+      },
+      {
+        "model": "defense_only",
+        "r2_cv": 0.0872,
+        "features": 18,
+        "drop_from_full": 0.6414
+      },
+      {
+        "model": "full_minus_defense",
+        "r2_cv": 0.6808,
+        "features": 69,
+        "drop_from_full": 0.0478
+      },
+      {
+        "model": "progression_only",
+        "r2_cv": 0.1848,
+        "features": 15,
+        "drop_from_full": 0.5438
+      },
+      {
+        "model": "full_minus_progression",
+        "r2_cv": 0.6816,
+        "features": 72,
+        "drop_from_full": 0.0471
+      },
+      {
+        "model": "negative_events_only",
+        "r2_cv": 0.0715,
+        "features": 11,
+        "drop_from_full": 0.6571
+      },
+      {
+        "model": "full_minus_negative_events",
+        "r2_cv": 0.6619,
+        "features": 76,
+        "drop_from_full": 0.0668
+      }
+    ]
+  },
+  "study3": {
+    "n_player_matches": 10855,
+    "mean_rating_pooled": 6.6182,
+    "sd_rating_pooled": 0.6813,
+    "threshold_2sd_pooled": 7.9808,
+    "n_exceptional_2sd_pooled": 454,
+    "share_exceptional_2sd_pooled": 0.0418,
+    "n_exceptional_2sd_by_tournament": 463,
+    "share_exceptional_2sd_by_tournament": 0.0427,
+    "observable_metrics_used": ["Shots", "ShotsOT", "KeyPasses", "PassAccuracy", "AerialsWon", "Touches"]
+  }
+}
